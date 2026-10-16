@@ -11,7 +11,7 @@ openingHtml: "Reverse osmosis system installation in Salt Lake City, UT adds a m
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"reverse-osmosis-installation-salt-lake-city-ut.webp","alt":"Reverse osmosis installation Salt Lake City UT under-sink RO system"}
-images: [{"file":"reverse-osmosis-installation-salt-lake-city-ut.webp","alt":"Reverse osmosis installation Salt Lake City UT under-sink RO system","exists":true},{"file":"card-how-reverse-osmosis-systems-work-salt-lake-city-ut.webp","alt":"How Reverse Osmosis Systems Work Salt Lake City UT","exists":true},{"file":"card-under-sink-ro-installation-salt-lake-city-ut.webp","alt":"Under Sink RO Installation Salt Lake City UT","exists":true},{"file":"card-whole-house-ro-systems-salt-lake-city-ut.webp","alt":"Whole House RO Systems Salt Lake City UT","exists":true},{"file":"card-ro-membrane-replacement-salt-lake-city-ut.webp","alt":"RO Membrane Replacement Salt Lake City UT","exists":true},{"file":"card-ro-and-water-softener-combination-salt-lake-city-ut.webp","alt":"RO and Water Softener Combination Salt Lake City UT","exists":false}]
+images: [{"file":"reverse-osmosis-installation-salt-lake-city-ut.webp","alt":"Reverse osmosis installation Salt Lake City UT under-sink RO system","exists":true},{"file":"card-how-reverse-osmosis-systems-work-salt-lake-city-ut.webp","alt":"How Reverse Osmosis Systems Work Salt Lake City UT","exists":true},{"file":"card-under-sink-ro-installation-salt-lake-city-ut.webp","alt":"Under Sink RO Installation Salt Lake City UT","exists":true},{"file":"card-whole-house-ro-systems-salt-lake-city-ut.webp","alt":"Whole House RO Systems Salt Lake City UT","exists":true},{"file":"card-ro-membrane-replacement-salt-lake-city-ut.webp","alt":"RO Membrane Replacement Salt Lake City UT","exists":true},{"file":"card-ro-and-water-softener-combination-salt-lake-city-ut.webp","alt":"RO and Water Softener Combination Salt Lake City UT","exists":true}]
 faq: [{"q":"Does reverse osmosis remove hardness?","a":"It reduces dissolved minerals at the tap, but hard water scales the membrane, so a softener upstream protects it."},{"q":"Does RO waste water?","a":"Yes. RO sends rejected water to the drain. The ratio depends on the system, and the technician states it for the model."},{"q":"How often do I replace RO filters?","a":"Pre-filters are replaced more often than the membrane. The technician sets a schedule at installation."},{"q":"Is RO water safe to drink?","a":"Yes, when the system is maintained. Some people add minerals back with a remineralizing stage for taste. Salt Lake City Crest Water Softener UT provides reverse osmosis system installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 2
 ---
@@ -81,7 +81,10 @@ The RO membrane and pre-filters wear out and are replaced on a schedule that dep
 <div class="svc-card">
 
 
-![RO and Water Softener Combination Salt Lake City UT](/placeholders/card.svg)
+
+![RO and Water Softener Combination Salt Lake City UT](../../assets/images/card-ro-and-water-softener-combination-salt-lake-city-ut.webp)
+
+
 
 ### RO and Water Softener Combination
 

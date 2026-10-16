@@ -11,7 +11,7 @@ openingHtml: "UV water purification system installation in Salt Lake City, UT ad
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"uv-water-purification-salt-lake-city-ut.webp","alt":"UV water purification Salt Lake City UT ultraviolet chamber on a wall"}
-images: [{"file":"uv-water-purification-salt-lake-city-ut.webp","alt":"UV water purification Salt Lake City UT ultraviolet chamber on a wall","exists":true},{"file":"card-how-uv-water-purification-works-salt-lake-city-ut.webp","alt":"How UV Water Purification Works Salt Lake City UT","exists":false},{"file":"card-uv-system-installation-salt-lake-city-ut.webp","alt":"UV System Installation Salt Lake City UT","exists":false},{"file":"card-uv-and-water-softener-combination-salt-lake-city-ut.webp","alt":"UV and Water Softener Combination Salt Lake City UT","exists":false}]
+images: [{"file":"uv-water-purification-salt-lake-city-ut.webp","alt":"UV water purification Salt Lake City UT ultraviolet chamber on a wall","exists":true},{"file":"card-how-uv-water-purification-works-salt-lake-city-ut.webp","alt":"How UV Water Purification Works Salt Lake City UT","exists":true},{"file":"card-uv-system-installation-salt-lake-city-ut.webp","alt":"UV System Installation Salt Lake City UT","exists":true},{"file":"card-uv-and-water-softener-combination-salt-lake-city-ut.webp","alt":"UV and Water Softener Combination Salt Lake City UT","exists":true}]
 faq: [{"q":"Does UV remove chemicals or hardness?","a":"No. UV only inactivates organisms. Hardness needs a softener, and chemicals need a filter."},{"q":"Does UV change the taste of water?","a":"No. It adds no chemicals and leaves taste unchanged."},{"q":"Do I need UV on city water?","a":"SLCDPU disinfects its water and reports no violations, so most city customers do not need UV. A well needs a test first."},{"q":"How often is the UV lamp replaced?","a":"On the maker's schedule, commonly once a year . Salt Lake City Crest Water Softener UT provides UV water purification system installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 3
 ---
@@ -25,7 +25,10 @@ UV purification covers three topics: how UV works, UV system installation and co
 <div class="svc-card">
 
 
-![How UV Water Purification Works Salt Lake City UT](/placeholders/card.svg)
+
+![How UV Water Purification Works Salt Lake City UT](../../assets/images/card-how-uv-water-purification-works-salt-lake-city-ut.webp)
+
+
 
 ### How UV Water Purification Works
 
@@ -36,7 +39,10 @@ A UV system passes water through a chamber with an ultraviolet lamp that damages
 <div class="svc-card">
 
 
-![UV System Installation Salt Lake City UT](/placeholders/card.svg)
+
+![UV System Installation Salt Lake City UT](../../assets/images/card-uv-system-installation-salt-lake-city-ut.webp)
+
+
 
 ### UV System Installation
 
@@ -47,7 +53,10 @@ The technician mounts the chamber on the main line after the filters, connects p
 <div class="svc-card">
 
 
-![UV and Water Softener Combination Salt Lake City UT](/placeholders/card.svg)
+
+![UV and Water Softener Combination Salt Lake City UT](../../assets/images/card-uv-and-water-softener-combination-salt-lake-city-ut.webp)
+
+
 
 ### UV and Water Softener Combination
 

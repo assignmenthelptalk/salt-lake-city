@@ -11,7 +11,7 @@ openingHtml: "Water contaminant removal in Salt Lake City, UT uses certified fil
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-salt-lake-city-ut.webp","alt":"Water contaminant removal Salt Lake City UT under-sink filter installation"}
-images: [{"file":"water-contaminant-removal-salt-lake-city-ut.webp","alt":"Water contaminant removal Salt Lake City UT under-sink filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-salt-lake-city-ut.webp","alt":"Lead and Arsenic Removal Salt Lake City UT","exists":false},{"file":"card-chloramine-and-chlorine-removal-salt-lake-city-ut.webp","alt":"Chloramine and Chlorine Removal Salt Lake City UT","exists":false},{"file":"card-fluoride-filter-installation-salt-lake-city-ut.webp","alt":"Fluoride Filter Installation Salt Lake City UT","exists":false},{"file":"card-pfas-water-filter-salt-lake-city-ut.webp","alt":"PFAS Water Filter Salt Lake City UT","exists":false},{"file":"card-nitrate-filter-installation-salt-lake-city-ut.webp","alt":"Nitrate Filter Installation Salt Lake City UT","exists":false}]
+images: [{"file":"water-contaminant-removal-salt-lake-city-ut.webp","alt":"Water contaminant removal Salt Lake City UT under-sink filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-salt-lake-city-ut.webp","alt":"Lead and Arsenic Removal Salt Lake City UT","exists":true},{"file":"card-chloramine-and-chlorine-removal-salt-lake-city-ut.webp","alt":"Chloramine and Chlorine Removal Salt Lake City UT","exists":true},{"file":"card-fluoride-filter-installation-salt-lake-city-ut.webp","alt":"Fluoride Filter Installation Salt Lake City UT","exists":true},{"file":"card-pfas-water-filter-salt-lake-city-ut.webp","alt":"PFAS Water Filter Salt Lake City UT","exists":true},{"file":"card-nitrate-filter-installation-salt-lake-city-ut.webp","alt":"Nitrate Filter Installation Salt Lake City UT","exists":true}]
 faq: [{"q":"Is Salt Lake City tap water safe to drink?","a":"SLCDPU's 2026 report states that the water meets or exceeds federal and state standards and that no drinking water violations were issued in 2025. A home test shows what reaches your tap after your own plumbing."},{"q":"How do I know if I have lead in my water?","a":"Check your service line material and test the tap. SLCDPU's report describes a lead service line inventory and replacement funding."},{"q":"Does a water softener remove contaminants?","a":"No. A softener removes hardness minerals. Contaminants need a certified filter or reverse osmosis."},{"q":"What filter certification should I look for?","a":"Look for an independent certification for the specific contaminant. Salt Lake City Crest Water Softener UT provides water contaminant removal for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 3
 ---
@@ -21,7 +21,10 @@ markerCount: 3
 <div class="svc-card">
 
 
-![Lead and Arsenic Removal Salt Lake City UT](/placeholders/card.svg)
+
+![Lead and Arsenic Removal Salt Lake City UT](../../assets/images/card-lead-and-arsenic-removal-salt-lake-city-ut.webp)
+
+
 
 ### Lead and Arsenic Removal
 
@@ -32,7 +35,10 @@ Lead usually enters water from service lines and home plumbing, not from the uti
 <div class="svc-card">
 
 
-![Chloramine and Chlorine Removal Salt Lake City UT](/placeholders/card.svg)
+
+![Chloramine and Chlorine Removal Salt Lake City UT](../../assets/images/card-chloramine-and-chlorine-removal-salt-lake-city-ut.webp)
+
+
 
 ### Chloramine and Chlorine Removal
 
@@ -43,7 +49,10 @@ Chlorine and chloramine are disinfectants, and SLCDPU's report says it applies c
 <div class="svc-card">
 
 
-![Fluoride Filter Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Fluoride Filter Installation Salt Lake City UT](../../assets/images/card-fluoride-filter-installation-salt-lake-city-ut.webp)
+
+
 
 ### Fluoride Filter Installation
 
@@ -54,7 +63,10 @@ SLCDPU stopped adding fluoride in May 2025 after a Utah law, and its 2026 report
 <div class="svc-card">
 
 
-![PFAS Water Filter Salt Lake City UT](/placeholders/card.svg)
+
+![PFAS Water Filter Salt Lake City UT](../../assets/images/card-pfas-water-filter-salt-lake-city-ut.webp)
+
+
 
 ### PFAS Water Filter
 
@@ -65,7 +77,10 @@ PFAS are a group of persistent chemicals, and a carbon block or reverse osmosis 
 <div class="svc-card">
 
 
-![Nitrate Filter Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Nitrate Filter Installation Salt Lake City UT](../../assets/images/card-nitrate-filter-installation-salt-lake-city-ut.webp)
+
+
 
 ### Nitrate Filter Installation
 

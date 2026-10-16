@@ -11,7 +11,7 @@ openingHtml: "Water filtration system installation in Salt Lake City, UT adds fi
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-filtration-systems-salt-lake-city-ut.webp","alt":"Water filtration systems Salt Lake City UT whole-house filter on a main line"}
-images: [{"file":"water-filtration-systems-salt-lake-city-ut.webp","alt":"Water filtration systems Salt Lake City UT whole-house filter on a main line","exists":true},{"file":"card-whole-house-water-filter-salt-lake-city-ut.webp","alt":"Whole House Water Filter Salt Lake City UT","exists":false},{"file":"card-under-sink-water-filter-salt-lake-city-ut.webp","alt":"Under Sink Water Filter Salt Lake City UT","exists":false},{"file":"card-sediment-filter-installation-salt-lake-city-ut.webp","alt":"Sediment Filter Installation Salt Lake City UT","exists":false},{"file":"card-carbon-block-filter-salt-lake-city-ut.webp","alt":"Carbon Block Filter Salt Lake City UT","exists":false},{"file":"card-shower-filter-installation-salt-lake-city-ut.webp","alt":"Shower Filter Installation Salt Lake City UT","exists":false},{"file":"card-refrigerator-filter-replacement-salt-lake-city-ut.webp","alt":"Refrigerator Filter Replacement Salt Lake City UT","exists":false}]
+images: [{"file":"water-filtration-systems-salt-lake-city-ut.webp","alt":"Water filtration systems Salt Lake City UT whole-house filter on a main line","exists":true},{"file":"card-whole-house-water-filter-salt-lake-city-ut.webp","alt":"Whole House Water Filter Salt Lake City UT","exists":true},{"file":"card-under-sink-water-filter-salt-lake-city-ut.webp","alt":"Under Sink Water Filter Salt Lake City UT","exists":false},{"file":"card-sediment-filter-installation-salt-lake-city-ut.webp","alt":"Sediment Filter Installation Salt Lake City UT","exists":false},{"file":"card-carbon-block-filter-salt-lake-city-ut.webp","alt":"Carbon Block Filter Salt Lake City UT","exists":false},{"file":"card-shower-filter-installation-salt-lake-city-ut.webp","alt":"Shower Filter Installation Salt Lake City UT","exists":false},{"file":"card-refrigerator-filter-replacement-salt-lake-city-ut.webp","alt":"Refrigerator Filter Replacement Salt Lake City UT","exists":false}]
 faq: [{"q":"Do I need a filter if I have a water softener?","a":"Often yes. A softener removes hardness, and a filter removes sediment, chlorine taste and odor. They solve different problems."},{"q":"How often do I replace filter cartridges?","a":"It depends on the filter and your water use. The technician sets a schedule at installation, following the maker's rating."},{"q":"What does a whole-house filter remove?","a":"It removes particles and reduces chlorine taste and odor. For specific contaminants, a certified filter chosen from your test is needed."},{"q":"What does filtration cost in Salt Lake City?","a":"The estimate is free and itemized. Salt Lake City Crest Water Softener UT provides water filtration system installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 1
 ---
@@ -25,7 +25,10 @@ Seven filtration options cover the whole house, the sink, the shower and the ref
 <div class="svc-card">
 
 
-![Whole House Water Filter Salt Lake City UT](/placeholders/card.svg)
+
+![Whole House Water Filter Salt Lake City UT](../../assets/images/card-whole-house-water-filter-salt-lake-city-ut.webp)
+
+
 
 ### Whole House Water Filter
 
