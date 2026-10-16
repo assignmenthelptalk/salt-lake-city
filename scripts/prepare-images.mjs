@@ -43,10 +43,16 @@ const ARCHIVE = path.join(root, "brand_assets", "unbranded-images");
 // automatically. Pass --no-brand to convert without any logo, or --logo / --card-logo to use other files.
 const NO_BRAND = args.includes("--no-brand");
 const existing = (rel) => (fs.existsSync(path.resolve(root, rel)) ? rel : undefined);
+// Optional per-site settings: brand_assets/brand-settings.json
+//   { "logoWidth": 0.34, "cardLogo": "src/assets/logo.png", "cardWidth": 0.42, "plateOpacity": 0.75 }
+// logoWidth = full logo as a share of a large photo's width; cardLogo/cardWidth = the stamp on card-* photos
+// (default: the water-drop mark at 11%); plateOpacity = the white plate behind the logo. Command-line flags win.
+const settingsPath = path.join(root, "brand_assets", "brand-settings.json");
+const BS = fs.existsSync(settingsPath) ? JSON.parse(fs.readFileSync(settingsPath, "utf8").replace(/^﻿/, "")) : {};
 const LOGO = NO_BRAND ? undefined : opt("logo", existing("src/assets/logo.png"));
-const CARD_LOGO = NO_BRAND ? undefined : opt("card-logo", existing("brand_assets/mark.png")); // smaller mark for card-* images
-const CARD_WIDTH_RATIO = parseFloat(opt("card-width", "0.11"));
-const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, WIDTH_RATIO = 0.22, MARGIN_RATIO = 0.03;
+const CARD_LOGO = NO_BRAND ? undefined : opt("card-logo", BS.cardLogo && existing(BS.cardLogo) ? BS.cardLogo : existing("brand_assets/mark.png")); // stamp for card-* images
+const CARD_WIDTH_RATIO = parseFloat(opt("card-width", String(BS.cardWidth ?? 0.11)));
+const LOGO_OPACITY = 0.8, PLATE_OPACITY = BS.plateOpacity ?? 0.55, WIDTH_RATIO = parseFloat(opt("logo-width", String(BS.logoWidth ?? 0.22))), MARGIN_RATIO = 0.03;
 
 const fail = (msg) => { console.error(`prepare-images: ${msg}`); process.exit(1); };
 if (!SRC) fail("pass --src <folder with the generated images>");
