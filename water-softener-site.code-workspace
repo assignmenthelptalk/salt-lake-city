@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "Local-SEO-Toolkit",
+      "path": "C:\\Users\\lenevo\\Local-SEO-Toolkit"
+    },
+    {
+      "name": "Salt Lake City Crest Water Softener Site",
+      "path": "C:\\Users\\lenevo\\waterSoftenerProjects\\saltlakecitywatersoftener"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules": true,
+      ".astro": true,
+      "dist": true
+    },
+    "editor.wordWrap": "on"
+  }
+}
