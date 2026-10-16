@@ -11,7 +11,7 @@ openingHtml: "Hard water in Salt Lake City, UT measures 136 to 212 mg/L at the t
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"hard-water-salt-lake-city-ut.webp","alt":"Hard water Salt Lake City UT scale buildup on a showerhead"}
-images: [{"file":"hard-water-salt-lake-city-ut.webp","alt":"Hard water Salt Lake City UT scale buildup on a showerhead","exists":true},{"file":"card-what-is-hard-water-salt-lake-city-ut.webp","alt":"What Is Hard Water? Salt Lake City UT","exists":false},{"file":"card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp","alt":"Why Is Salt Lake City Water Hard? Salt Lake City UT","exists":false},{"file":"card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp","alt":"How Hard Is Salt Lake City Water? Salt Lake City UT","exists":false}]
+images: [{"file":"hard-water-salt-lake-city-ut.webp","alt":"Hard water Salt Lake City UT scale buildup on a showerhead","exists":true},{"file":"card-what-is-hard-water-salt-lake-city-ut.webp","alt":"What Is Hard Water? Salt Lake City UT","exists":true},{"file":"card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp","alt":"Why Is Salt Lake City Water Hard? Salt Lake City UT","exists":false},{"file":"card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp","alt":"How Hard Is Salt Lake City Water? Salt Lake City UT","exists":true}]
 faq: [{"q":"Is Salt Lake City water hard?","a":"Yes. SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L at its surface water plants and 154 to 571 mg/L in its wells, which is hard to very hard on the USGS scale."},{"q":"Is hard water bad for your health?","a":"Hard water is not a health risk in the amounts found in Salt Lake City. It affects plumbing, appliances, skin and laundry rather than drinking safety."},{"q":"Why is my neighbor's water harder than mine?","a":"Different streets receive different blends of surface water, wells and wholesale supply. SLCDPU's own sources range from 136 to 571 mg/L, so neighboring streets can differ."},{"q":"Does boiling remove water hardness?","a":"Boiling precipitates some of the temporary hardness as scale, and it does not make hard water soft. A softener removes the minerals before they reach the pipes. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Three questions cover the basics: what hard water is, why Salt Lake City water i
 <div class="svc-card">
 
 
-![What Is Hard Water? Salt Lake City UT](/placeholders/card.svg)
+
+![What Is Hard Water? Salt Lake City UT](../../assets/images/card-what-is-hard-water-salt-lake-city-ut.webp)
+
+
 
 ### What Is Hard Water?
 
@@ -47,7 +50,10 @@ Salt Lake City water is hard because it carries minerals from the mountains and 
 <div class="svc-card">
 
 
-![How Hard Is Salt Lake City Water? Salt Lake City UT](/placeholders/card.svg)
+
+![How Hard Is Salt Lake City Water? Salt Lake City UT](../../assets/images/card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp)
+
+
 
 ### How Hard Is Salt Lake City Water?
 
