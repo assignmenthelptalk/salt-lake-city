@@ -10,8 +10,8 @@ crumb: "Water Softener Guides for Salt Lake City Homeowners"
 openingHtml: "Water softener guides for Salt Lake City, UT answer the questions homeowners ask before they buy: how hard the water is, what size to choose and which type fits. The figures come from SLCDPU's 2026 Water Quality Report, which lists total hardness of 136 to 212 mg/L at its surface water plants and up to 571 mg/L in its wells. <a href=\"/\">Salt Lake City Crest Water Softener</a> keeps each guide to sourced numbers and plain language. Request a free estimate when you are ready."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-guides-salt-lake-city-ut.webp","alt":"Water softener guides Salt Lake City UT homeowner reading a hardness report","exists":false}]
+leadImage: {"file":"water-softener-guides-salt-lake-city-ut.webp","alt":"Water softener guides Salt Lake City UT homeowner reading a hardness report"}
+images: [{"file":"water-softener-guides-salt-lake-city-ut.webp","alt":"Water softener guides Salt Lake City UT homeowner reading a hardness report","exists":true}]
 faq: [{"q":"Where do the hardness figures in these guides come from?","a":"They come from SLCDPU's 2026 Water Quality Report (Utah Public Water System #18026), which lists total hardness by source. The guides cite it directly."},{"q":"Do the guides give prices?","a":"Prices appear only once they are confirmed. Until then, each guide lists the factors that move the cost. Salt Lake City Crest Water Softener UT provides water softener installation, replacement, repair and water testing for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 0
 ---

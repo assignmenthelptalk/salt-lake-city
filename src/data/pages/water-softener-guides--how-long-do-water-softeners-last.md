@@ -10,8 +10,8 @@ crumb: "How Long Does a Water Softener Last"
 openingHtml: "A water softener commonly lasts 10 to 15 years <mark class=\"data-gap\">[VERIFY: cite a manufacturer or industry source]</mark>, and the figure shortens in very hard water where the resin and valve work harder. SLCDPU's 2026 report lists total hardness of 212 mg/L at its City Creek plant and up to 571 mg/L in its wells, which the USGS rates very hard above 180 mg/L. Salt Lake City Crest Water Softener explains what wears out and when replacement beats repair. Request a free estimate for an inspection."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"how-long-do-water-softeners-last-salt-lake-city-ut.webp","alt":"How long do water softeners last Salt Lake City UT worn control head and tank","exists":false}]
+leadImage: {"file":"how-long-do-water-softeners-last-salt-lake-city-ut.webp","alt":"How long do water softeners last Salt Lake City UT worn control head and tank"}
+images: [{"file":"how-long-do-water-softeners-last-salt-lake-city-ut.webp","alt":"How long do water softeners last Salt Lake City UT worn control head and tank","exists":true}]
 faq: [{"q":"How do I know my softener is near the end of its life?","a":"Hard water returns after a repair, salt use rises sharply, the tank leaks or the unit is past about 10 to 15 years ."},{"q":"Can I extend the life of my softener?","a":"Yes. Monthly salt checks, brine tank cleaning, resin cleaning and a yearly inspection all help."},{"q":"Is it worth repairing an old softener?","a":"For one failed part on a young unit, yes. For repeated failures on an old unit, replacement costs less over time."},{"q":"Does well water shorten softener life?","a":"It can, because iron and sediment foul resin. A pre-filter protects it. Salt Lake City Crest Water Softener UT provides water softener replacement for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 2
 ---
