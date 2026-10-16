@@ -1,7 +1,51 @@
 {
-  "hubs": [],
-  "services": [],
-  "guideHub": null,
-  "geoHub": null,
-  "menuLabels": ["Services", "Other Services"]
+  "menuLabels": [
+    "Services",
+    "Other Services"
+  ],
+  "hubs": [
+    {
+      "href": "/water-softener-systems/",
+      "label": "Water Softener Systems"
+    },
+    {
+      "href": "/water-treatment-and-testing/",
+      "label": "Water Treatment Services"
+    }
+  ],
+  "services": [
+    {
+      "href": "/water-softener-installation/",
+      "label": "Water Softener Installation",
+      "parent": "/water-softener-systems/"
+    },
+    {
+      "href": "/water-softener-replacement/",
+      "label": "Water Softener Replacement",
+      "parent": "/water-softener-systems/"
+    },
+    {
+      "href": "/water-softener-maintenance/",
+      "label": "Water Softener Maintenance",
+      "parent": "/water-softener-systems/"
+    },
+    {
+      "href": "/water-softener-repair/",
+      "label": "Water Softener Repair",
+      "parent": "/water-softener-systems/"
+    },
+    {
+      "href": "/water-quality-testing/",
+      "label": "Water Quality Testing",
+      "parent": "/water-treatment-and-testing/"
+    }
+  ],
+  "guideHub": {
+    "href": "/water-softener-guides/",
+    "label": "Water Softener Guides for Salt Lake City Homeowners"
+  },
+  "geoHub": {
+    "href": "/service-areas/",
+    "label": "Water Softener Service Areas Near Salt Lake City, UT"
+  }
 }
