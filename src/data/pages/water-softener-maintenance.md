@@ -81,7 +81,7 @@ Maintenance fixes salt, resin and brine problems. A failed valve, motor or tank 
 
 
 
-Homeowners comparing options also read about [water softener repair](/water-softener-repair/), [water softener installation](/water-softener-installation/) and [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/).
+Homeowners comparing options also read about [water softener repair](/water-softener-repair/), [water softener installation](/water-softener-installation/), [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

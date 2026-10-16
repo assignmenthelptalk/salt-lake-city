@@ -40,7 +40,7 @@ A [hard water](/water-softener-guides/hard-water-salt-lake-city-ut/) test reads 
 
 ### TDS Testing
 
-Total dissolved solids measures all dissolved minerals in milligrams per liter. A high reading points to reverse osmosis or another treatment for drinking water.
+Total dissolved solids measures all dissolved minerals in milligrams per liter. A high reading points to [reverse osmosis](/reverse-osmosis-installation/) or another treatment for drinking water.
 
 </div>
 
@@ -84,7 +84,7 @@ Chlorine is the disinfectant in city water, and SLCDPU's report states it adds c
 
 ### Sulfur Testing
 
-Sulfur gives a rotten-egg smell, and it is mainly a private well issue. A positive test points to a hydrogen sulfide filter.
+Sulfur gives a rotten-egg smell, and it is mainly a [private well](/well-water-softener-salt-lake-city-ut/) issue. A positive test points to a hydrogen sulfide filter.
 
 </div>
 
@@ -95,7 +95,7 @@ Sulfur gives a rotten-egg smell, and it is mainly a private well issue. A positi
 
 ### Heavy Metals Testing
 
-A metals panel checks for lead, arsenic and similar contaminants. SLCDPU's 2026 report describes lead service line replacement funding, and a home test shows what reaches your tap through your own plumbing.
+A metals panel checks for lead, arsenic and similar [contaminants](/water-contaminant-removal-salt-lake-city-ut/). SLCDPU's 2026 report describes lead service line replacement funding, and a home test shows what reaches your tap through your own plumbing.
 
 </div>
 
@@ -112,7 +112,7 @@ A reading sets the next step: a softener for hardness, a filter for iron or sulf
 
 
 
-Homeowners comparing options also read about [water softener installation](/water-softener-installation/), [the other towns we serve](/service-areas/) and [how to size a water softener](/water-softener-guides/water-softener-size-guide/).
+Homeowners comparing options also read about [water softener installation](/water-softener-installation/), [the other towns we serve](/service-areas/), [how to size a water softener](/water-softener-guides/water-softener-size-guide/) and [whole-house water filtration](/water-filtration-systems/).
 
 
 

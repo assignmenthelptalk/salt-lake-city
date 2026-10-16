@@ -18,7 +18,7 @@ markerCount: 0
 
 ## Which Guide Answers Your Question?
 
-Guides cover hardness, size and type, with cost, lifespan and replacement guides to follow. Pick the one that matches where you are in the decision.
+Guides cover hardness, size, type, cost, lifespan and the signs of a failing unit. Pick the one that matches where you are in the decision.
 
 ### Hard Water in Salt Lake City, UT
 
@@ -31,6 +31,18 @@ The size guide gives the sizing formula and worked examples for 8.0, 12.4 and 33
 ### Salt-Based vs Salt-Free Water Softener
 
 The comparison guide sets the two types side by side for Salt Lake City hardness. It suits anyone deciding between a softener and a conditioner.
+
+### Water Softener Cost in Salt Lake City
+
+The cost guide covers what moves the price and how Salt Lake City hardness changes the capacity you need. It suits anyone budgeting for an installation.
+
+### How Long Do Water Softeners Last?
+
+The lifespan guide covers resin, valves and tanks and when repair stops paying off. It suits anyone with an older unit.
+
+### Signs You Need a New Water Softener
+
+The signs guide lists the seven symptoms that mean repair or replacement. It suits anyone whose water has turned hard again.
 
 
 ## Not sure where to start?

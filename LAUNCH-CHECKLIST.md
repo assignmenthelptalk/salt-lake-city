@@ -14,13 +14,13 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Service-areas map: none (add map-points.json to the strategy folder). Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: 0 link(s) are shown as plain text until the target page exists (none). Write the page, re-run the import and the link comes back
-- [ ] Build the images still missing (code-made diagrams, listed here): hard-water-salt-lake-city-ut.webp, card-what-is-hard-water-salt-lake-city-ut.webp, card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp, card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp, salt-vs-salt-free-water-softener-salt-lake-city-ut.webp, hero-water-softener-salt-lake-city-ut.webp, installed-softener-salt-lake-city-ut.webp, card-water-softener-installation-salt-lake-city-ut.webp, card-water-softener-replacement-salt-lake-city-ut.webp, card-salt-free-water-softener-systems-salt-lake-city-ut.webp, card-water-softener-repair-and-service-salt-lake-city-ut.webp, card-whole-house-water-filtration-salt-lake-city-ut.webp, card-water-quality-testing-salt-lake-city-ut.webp, hard-water-buildup-salt-lake-city-ut.webp, water-softener-installation-steps-salt-lake-city-ut.webp, water-softener-service-areas-salt-lake-city-ut.webp, water-quality-testing-salt-lake-city-ut.webp, card-free-hard-water-test-salt-lake-city-ut.webp, card-tds-testing-salt-lake-city-ut.webp, card-iron-content-testing-salt-lake-city-ut.webp, card-ph-level-testing-salt-lake-city-ut.webp, card-chlorine-testing-salt-lake-city-ut.webp, card-sulfur-testing-salt-lake-city-ut.webp, card-heavy-metals-testing-salt-lake-city-ut.webp, water-softener-guides-salt-lake-city-ut.webp, water-softener-installation-salt-lake-city-ut.webp, water-softener-maintenance-salt-lake-city-ut.webp, card-water-softener-resin-cleaning-service-salt-lake-city-ut.webp, card-water-softener-salt-refill-service-salt-lake-city-ut.webp, card-water-softener-brine-tank-cleaning-salt-lake-city-ut.webp, card-annual-maintenance-plans-salt-lake-city-ut.webp, water-softener-repair-salt-lake-city-ut.webp, card-water-softener-control-valve-repair-salt-lake-city-ut.webp, card-water-softener-motor-replacement-salt-lake-city-ut.webp, card-float-valve-repair-salt-lake-city-ut.webp, card-injector-cleaning-salt-lake-city-ut.webp, card-head-replacement-salt-lake-city-ut.webp, card-brine-line-repair-salt-lake-city-ut.webp, card-water-softener-leak-repair-salt-lake-city-ut.webp, water-softener-replacement-salt-lake-city-ut.webp, water-softener-systems-salt-lake-city-ut.webp, card-why-salt-lake-city-water-needs-a-water-softener-system-salt-lake-city-ut.webp, card-dual-tank-water-softener-installation-salt-lake-city-ut.webp, card-commercial-water-softener-installation-salt-lake-city-ut.webp, card-water-softener-maintenance-salt-lake-city-ut.webp, card-water-softener-repair-salt-lake-city-ut.webp, card-water-conditioner-installation-salt-lake-city-ut.webp, water-treatment-salt-lake-city-ut.webp, card-why-test-before-you-treat-salt-lake-city-ut.webp, card-water-filtration-system-installation-salt-lake-city-ut.webp, card-well-water-softener-and-treatment-salt-lake-city-ut.webp, card-water-contaminant-removal-salt-lake-city-ut.webp, card-reverse-osmosis-system-installation-salt-lake-city-ut.webp, card-uv-water-purification-system-installation-salt-lake-city-ut.webp, card-drinking-water-system-installation-salt-lake-city-ut.webp
+- [ ] Build the images still missing (code-made diagrams, listed here): commercial-water-softener-salt-lake-city-ut.webp, drinking-water-systems-salt-lake-city-ut.webp, card-under-sink-drinking-water-systems-salt-lake-city-ut.webp, card-countertop-purification-units-salt-lake-city-ut.webp, card-alkaline-water-systems-salt-lake-city-ut.webp, dual-tank-water-softener-salt-lake-city-ut.webp, hard-water-salt-lake-city-ut.webp, card-what-is-hard-water-salt-lake-city-ut.webp, card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp, card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp, how-long-do-water-softeners-last-salt-lake-city-ut.webp, salt-vs-salt-free-water-softener-salt-lake-city-ut.webp, signs-you-need-a-new-water-softener-salt-lake-city-ut.webp, card-hard-water-symptoms-return-salt-lake-city-ut.webp, card-salt-use-rises-sharply-salt-lake-city-ut.webp, card-salt-bridges-or-mush-keep-returning-salt-lake-city-ut.webp, card-leaks-from-the-tank-head-or-drain-salt-lake-city-ut.webp, card-error-codes-or-no-cycling-salt-lake-city-ut.webp, card-resin-beads-in-faucets-or-sinks-salt-lake-city-ut.webp, water-softener-cost-salt-lake-city-ut.webp, hero-water-softener-salt-lake-city-ut.webp, installed-softener-salt-lake-city-ut.webp, card-water-softener-installation-salt-lake-city-ut.webp, card-water-softener-replacement-salt-lake-city-ut.webp, card-salt-free-water-softener-systems-salt-lake-city-ut.webp, card-water-softener-repair-and-service-salt-lake-city-ut.webp, card-whole-house-water-filtration-salt-lake-city-ut.webp, card-water-quality-testing-salt-lake-city-ut.webp, hard-water-buildup-salt-lake-city-ut.webp, water-softener-installation-steps-salt-lake-city-ut.webp, reverse-osmosis-installation-salt-lake-city-ut.webp, card-how-reverse-osmosis-systems-work-salt-lake-city-ut.webp, card-under-sink-ro-installation-salt-lake-city-ut.webp, card-whole-house-ro-systems-salt-lake-city-ut.webp, card-ro-membrane-replacement-salt-lake-city-ut.webp, card-ro-and-water-softener-combination-salt-lake-city-ut.webp, salt-free-water-softener-salt-lake-city-ut.webp, card-template-assisted-crystallization-tac-systems-salt-lake-city-ut.webp, card-electronic-descaler-installation-salt-lake-city-ut.webp, card-magnetic-water-conditioner-installation-salt-lake-city-ut.webp, water-softener-service-areas-salt-lake-city-ut.webp, uv-water-purification-salt-lake-city-ut.webp, card-how-uv-water-purification-works-salt-lake-city-ut.webp, card-uv-system-installation-salt-lake-city-ut.webp, card-uv-and-water-softener-combination-salt-lake-city-ut.webp, water-conditioner-installation-salt-lake-city-ut.webp, card-salt-free-water-conditioners-salt-lake-city-ut.webp, card-potassium-chloride-water-softener-systems-salt-lake-city-ut.webp, card-hard-water-treatment-service-salt-lake-city-ut.webp, card-limescale-treatment-service-salt-lake-city-ut.webp, card-scale-inhibitor-system-installation-salt-lake-city-ut.webp, water-contaminant-removal-salt-lake-city-ut.webp, card-lead-and-arsenic-removal-salt-lake-city-ut.webp, card-chloramine-and-chlorine-removal-salt-lake-city-ut.webp, card-fluoride-filter-installation-salt-lake-city-ut.webp, card-pfas-water-filter-salt-lake-city-ut.webp, card-nitrate-filter-installation-salt-lake-city-ut.webp, water-filtration-systems-salt-lake-city-ut.webp, card-whole-house-water-filter-salt-lake-city-ut.webp, card-under-sink-water-filter-salt-lake-city-ut.webp, card-sediment-filter-installation-salt-lake-city-ut.webp, card-carbon-block-filter-salt-lake-city-ut.webp, card-shower-filter-installation-salt-lake-city-ut.webp, card-refrigerator-filter-replacement-salt-lake-city-ut.webp, water-quality-testing-salt-lake-city-ut.webp, card-free-hard-water-test-salt-lake-city-ut.webp, card-tds-testing-salt-lake-city-ut.webp, card-iron-content-testing-salt-lake-city-ut.webp, card-ph-level-testing-salt-lake-city-ut.webp, card-chlorine-testing-salt-lake-city-ut.webp, card-sulfur-testing-salt-lake-city-ut.webp, card-heavy-metals-testing-salt-lake-city-ut.webp, water-softener-guides-salt-lake-city-ut.webp, water-softener-installation-salt-lake-city-ut.webp, water-softener-maintenance-salt-lake-city-ut.webp, card-water-softener-resin-cleaning-service-salt-lake-city-ut.webp, card-water-softener-salt-refill-service-salt-lake-city-ut.webp, card-water-softener-brine-tank-cleaning-salt-lake-city-ut.webp, card-annual-maintenance-plans-salt-lake-city-ut.webp, water-softener-repair-salt-lake-city-ut.webp, card-water-softener-control-valve-repair-salt-lake-city-ut.webp, card-water-softener-motor-replacement-salt-lake-city-ut.webp, card-float-valve-repair-salt-lake-city-ut.webp, card-injector-cleaning-salt-lake-city-ut.webp, card-head-replacement-salt-lake-city-ut.webp, card-brine-line-repair-salt-lake-city-ut.webp, card-water-softener-leak-repair-salt-lake-city-ut.webp, water-softener-replacement-salt-lake-city-ut.webp, water-softener-systems-salt-lake-city-ut.webp, card-why-salt-lake-city-water-needs-a-water-softener-system-salt-lake-city-ut.webp, card-dual-tank-water-softener-installation-salt-lake-city-ut.webp, card-commercial-water-softener-installation-salt-lake-city-ut.webp, card-water-softener-maintenance-salt-lake-city-ut.webp, card-water-softener-repair-salt-lake-city-ut.webp, card-water-conditioner-installation-salt-lake-city-ut.webp, water-treatment-salt-lake-city-ut.webp, card-why-test-before-you-treat-salt-lake-city-ut.webp, card-water-filtration-system-installation-salt-lake-city-ut.webp, card-well-water-softener-and-treatment-salt-lake-city-ut.webp, card-water-contaminant-removal-salt-lake-city-ut.webp, card-reverse-osmosis-system-installation-salt-lake-city-ut.webp, card-uv-water-purification-system-installation-salt-lake-city-ut.webp, card-drinking-water-system-installation-salt-lake-city-ut.webp, well-water-softener-salt-lake-city-ut.webp, card-well-water-softener-installation-salt-lake-city-ut.webp, card-iron-filter-installation-salt-lake-city-ut.webp, card-hydrogen-sulfide-filter-salt-lake-city-ut.webp, card-well-water-sediment-filter-salt-lake-city-ut.webp, card-why-well-water-in-the-salt-lake-city-area-needs-special-treatment-salt-lake-city-ut.webp
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Write or decide the remaining location pages (see the strategy folder's reports/)
 
 ## Totals
-- Pages built: 13
-- Open markers: 41
+- Pages built: 26
+- Open markers: 76
 - Draft meta descriptions: 0
 
 ## Per page
@@ -38,12 +38,69 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - [NEEDS DATA: confirm the tenant's service area list.]
   - [NEEDS DATA: confirm the tenant's service area list before naming more towns.]
 
+### /commercial-water-softener/
+- Meta description: final
+- Open markers: 3
+  - [NEEDS DATA: tenant's confirmed commercial customer types.]
+  - [NEEDS DATA: Utah licence rule and number.]
+  - [NEEDS DATA: tenant's service contract terms.]
+
+### /drinking-water-systems/
+- Meta description: final
+- Open markers: 1
+  - [VERIFY: cite a source for any health claim; none is made here.]
+
+### /dual-tank-water-softener/
+- Meta description: final
+- Open markers: 2
+  - [NEEDS DATA: installed price range from the tenant or a sourced Utah report.]
+  - [VERIFY: floor space from the unit's spec sheet.]
+
+### /reverse-osmosis-installation/
+- Meta description: final
+- Open markers: 2
+  - [VERIFY: typical membrane life from a manufacturer.]
+  - [NEEDS DATA: installed price range from the tenant or a sourced Utah report.]
+
+### /salt-free-water-softener-systems/
+- Meta description: final
+- Open markers: 5
+  - [VERIFY: cite a manufacturer]
+  - [VERIFY by model]
+  - [VERIFY: cite a manufacturer]
+  - [NEEDS DATA: Salt Lake City or Central Valley Water Reclamation rules on softener discharge.]
+  - [NEEDS DATA: installed price range from the tenant or a sourced Utah report.]
+
 ### /service-areas/
 - Meta description: final
 - Open markers: 3
   - [NEEDS DATA: confirm the tenant's service area list before naming more places.]
   - [NEEDS DATA: city-by-city provider and hardness for West Valley City, West Jordan, Sandy, Murray, Draper, South Jordan and Taylorsville before any page is published for them.]
   - [NEEDS DATA: tenant's service area boundary.]
+
+### /uv-water-purification/
+- Meta description: final
+- Open markers: 3
+  - [VERIFY: lamp life from a manufacturer, commonly about one year.]
+  - [VERIFY: cite a recommended private-well bacteria testing frequency.]
+  - [VERIFY: cite a manufacturer]
+
+### /water-conditioner-installation/
+- Meta description: final
+- Open markers: 1
+  - [NEEDS DATA: installed price range from the tenant or a sourced Utah report.]
+
+### /water-contaminant-removal-salt-lake-city-ut/
+- Meta description: final
+- Open markers: 3
+  - [NEEDS DATA: whether SLCDPU or your provider uses chloramine.]
+  - [NEEDS DATA: SLCDPU's PFAS results; the 2026 report's data table lists only the substances detected.]
+  - [VERIFY: cite NSF/ANSI standard numbers per contaminant.]
+
+### /water-filtration-systems/
+- Meta description: final
+- Open markers: 1
+  - [NEEDS DATA: installed price range from the tenant or a sourced Utah report.]
 
 ### /water-quality-testing/
 - Meta description: final
@@ -61,6 +118,12 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - Open markers: 0
   - (none)
 
+### /water-softener-guides/how-long-do-water-softeners-last/
+- Meta description: final
+- Open markers: 2
+  - [VERIFY: cite a manufacturer or industry source]
+  - [VERIFY: cite source]
+
 ### /water-softener-guides/salt-vs-salt-free-water-softener/
 - Meta description: final
 - Open markers: 4
@@ -68,6 +131,23 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - [NEEDS DATA: installed price ranges for both from the tenant or a sourced Utah report.]
   - [NEEDS DATA: SpringWell affiliate link, comparison recommendation]
   - [VERIFY: cite source]
+
+### /water-softener-guides/signs-you-need-a-new-water-softener/
+- Meta description: final
+- Open markers: 5
+  - [VERIFY: cite source]
+  - [VERIFY: typical softened-water target]
+  - [VERIFY: cite source]
+  - [VERIFY: typical softened-water target]
+  - [NEEDS DATA: replacement price range from the tenant or a sourced Utah report.]
+
+### /water-softener-guides/water-softener-cost-salt-lake-city-ut/
+- Meta description: final
+- Open markers: 4
+  - [NEEDS DATA: installed price ranges for Salt Lake City, from the tenant or a sourced Utah report; none is invented here.]
+  - [NEEDS DATA: price ranges for both.]
+  - [NEEDS DATA: installed price range for Salt Lake City.]
+  - [NEEDS DATA: typical monthly salt cost for Salt Lake City hardness.]
 
 ### /water-softener-guides/water-softener-size-guide/
 - Meta description: final
@@ -120,3 +200,10 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - Meta description: final
 - Open markers: 0
   - (none)
+
+### /well-water-softener-salt-lake-city-ut/
+- Meta description: final
+- Open markers: 3
+  - [NEEDS DATA: private well conditions in your part of the valley; a test is the only way to know.]
+  - [VERIFY: cite a recommended private-well testing frequency.]
+  - [NEEDS DATA: installed price range from the tenant.]

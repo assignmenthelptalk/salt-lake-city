@@ -22,11 +22,11 @@ A salt-based softener passes water through resin beads that swap calcium and mag
 
 ## How Does a Salt-Free Conditioner Work?
 
-A salt-free conditioner changes the structure of the hardness minerals so they cling less to pipes and fixtures. The minerals stay in the water, so the water is not soft: soap does not lather as freely and spotting can remain. It needs no salt, no brine drain and no electricity in most models <mark class="data-gap">[VERIFY by model]</mark>.
+A [salt-free conditioner](/salt-free-water-softener-systems/) changes the structure of the hardness minerals so they cling less to pipes and fixtures. The minerals stay in the water, so the water is not soft: soap does not lather as freely and spotting can remain. It needs no salt, no brine drain and no electricity in most models <mark class="data-gap">[VERIFY by model]</mark>.
 
 ## Which Fits Salt Lake City Water?
 
-If your [water tests](/water-quality-testing/) above 180 mg/L, choose salt-based, because conditioners are less effective as hardness rises. If your tap reads 121 to 180 mg/L and you want no salt or brine drain, a conditioner is a reasonable choice with a milder effect. For wells reading above 20 gpg, choose salt-based or a dual-tank system.
+If your [water tests](/water-quality-testing/) above 180 mg/L, choose salt-based, because [conditioners](/water-conditioner-installation/) are less effective as hardness rises. If your tap reads 121 to 180 mg/L and you want no salt or brine drain, a conditioner is a reasonable choice with a milder effect. For wells reading above 20 gpg, choose salt-based or a dual-tank system.
 
 ## Cost and Upkeep Compared
 
@@ -41,7 +41,7 @@ Your hardness reading and your tolerance for salt decide it. A free test settles
 
 
 
-To go further, see [water softener installation](/water-softener-installation/), [the hard water guide](/water-softener-guides/hard-water-salt-lake-city-ut/) and [how to size a water softener](/water-softener-guides/water-softener-size-guide/).
+To go further, see [water softener installation](/water-softener-installation/), [the hard water guide](/water-softener-guides/hard-water-salt-lake-city-ut/), [how to size a water softener](/water-softener-guides/water-softener-size-guide/) and [what a water softener costs](/water-softener-guides/water-softener-cost-salt-lake-city-ut/).
 
 
 

@@ -119,7 +119,7 @@ Repair fits a young unit with one failed part. Replacement fits an old unit, a l
 
 
 
-Homeowners comparing options also read about [water softener maintenance](/water-softener-maintenance/), [free water testing](/water-quality-testing/) and [water softener installation](/water-softener-installation/).
+Homeowners comparing options also read about [water softener maintenance](/water-softener-maintenance/), [free water testing](/water-quality-testing/), [water softener installation](/water-softener-installation/), [signs you need a new water softener](/water-softener-guides/signs-you-need-a-new-water-softener/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

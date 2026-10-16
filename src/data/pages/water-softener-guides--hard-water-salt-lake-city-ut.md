@@ -63,7 +63,7 @@ Hard water leaves scale in water heaters, dishwashers, washing machines, pipes a
 
 ## Solutions for Hard Water
 
-A [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) water softener removes the hardness minerals, a salt-free conditioner changes how scale forms, and a filter does not address hardness. For the strongest result in water above 180 mg/L, a correctly sized salt-based softener is the standard answer. For installation, see [Water Softener Installation in Salt Lake City, UT](/water-softener-installation/).
+A [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) water softener removes the hardness minerals, a [salt-free conditioner](/salt-free-water-softener-systems/) changes how scale forms, and a filter does not address hardness. For the strongest result in water above 180 mg/L, a correctly sized salt-based softener is the standard answer. For installation, see [Water Softener Installation in Salt Lake City, UT](/water-softener-installation/).
 
 > **Not a good fit if...** your tap tests under 60 mg/L. That water is soft, and a softener adds no benefit.
 
@@ -74,7 +74,7 @@ A free test at your tap gives your reading in grains per gallon, and the technic
 
 
 
-To go further, see [how to size a water softener](/water-softener-guides/water-softener-size-guide/).
+To go further, see [how to size a water softener](/water-softener-guides/water-softener-size-guide/) and [what a water softener costs](/water-softener-guides/water-softener-cost-salt-lake-city-ut/).
 
 
 

@@ -30,7 +30,7 @@ Iron in the water uses softener capacity, so the technician adds it to the hardn
 
 ## Which Softener Capacity Fits Your Household?
 
-If your water tests near 11 gpg, a household of one or two suits a 24,000-grain unit and a household of four suits 32,000 grains or more. If your water tests above 20 gpg, choose 48,000 grains or a dual-tank system. <mark class="data-gap">[VERIFY: confirm these pairings with the installer.]</mark> For a [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) unit sized to your reading, SpringWell is one brand to compare: <mark class="data-gap">[NEEDS DATA: SpringWell affiliate link, sizing recommendation]</mark>. *Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you.*
+If your water tests near 11 gpg, a household of one or two suits a 24,000-grain unit and a household of four suits 32,000 grains or more. If your water tests above 20 gpg, choose 48,000 grains or a [dual-tank system](/dual-tank-water-softener/). <mark class="data-gap">[VERIFY: confirm these pairings with the installer.]</mark> For a [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) unit sized to your reading, SpringWell is one brand to compare: <mark class="data-gap">[NEEDS DATA: SpringWell affiliate link, sizing recommendation]</mark>. *Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you.*
 
 > **Not a good fit if...** you want to size from a rule of thumb without testing. A test takes minutes and avoids an undersized unit.
 
@@ -41,7 +41,7 @@ Your tap reading and your household decide it. A technician measures the first a
 
 
 
-To go further, see [the hard water guide](/water-softener-guides/hard-water-salt-lake-city-ut/).
+To go further, see [the hard water guide](/water-softener-guides/hard-water-salt-lake-city-ut/) and [what a water softener costs](/water-softener-guides/water-softener-cost-salt-lake-city-ut/).
 
 
 

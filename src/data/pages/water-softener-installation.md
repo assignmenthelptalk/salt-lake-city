@@ -53,7 +53,7 @@ Household size, your water test reading and where the unit can sit decide the ch
 
 
 
-Homeowners comparing options also read about [water softener replacement](/water-softener-replacement/), [how to size a water softener](/water-softener-guides/water-softener-size-guide/), [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/) and [the other towns we serve](/service-areas/).
+Homeowners comparing options also read about [water softener replacement](/water-softener-replacement/), [how to size a water softener](/water-softener-guides/water-softener-size-guide/), [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/), [the other towns we serve](/service-areas/) and [dual tank water softeners](/dual-tank-water-softener/).
 
 
 

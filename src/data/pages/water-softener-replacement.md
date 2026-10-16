@@ -30,7 +30,7 @@ An upgrade replaces an undersized or outdated unit with a larger or more efficie
 
 ## Repair or Replace?
 
-Repair fits a young unit with one failed part, and replacement fits an old unit, a leaking tank or repeated failures. Industry guidance commonly puts softener life at 10 to 15 years <mark class="data-gap">[VERIFY: cite source]</mark>, so an older unit that fails twice in a year usually costs less to replace. The free inspection compares both prices side by side. <mark class="data-gap">[NEEDS DATA: replacement price range for Salt Lake City, from the tenant or a sourced Utah report.]</mark>
+Repair fits a young unit with one failed part, and replacement fits an old unit, a leaking tank or repeated failures. Industry guidance commonly puts softener life at [10 to 15 years](/water-softener-guides/how-long-do-water-softeners-last/) <mark class="data-gap">[VERIFY: cite source]</mark>, so an older unit that fails twice in a year usually costs less to replace. The free inspection compares both prices side by side. <mark class="data-gap">[NEEDS DATA: replacement price range for Salt Lake City, from the tenant or a sourced Utah report.]</mark>
 
 > **Not a good fit if...** your unit is under 5 years old and has one failed part. Repair is the cheaper fix.
 
