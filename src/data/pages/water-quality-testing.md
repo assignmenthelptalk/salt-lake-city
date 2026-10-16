@@ -11,7 +11,7 @@ openingHtml: "Water quality testing in Salt Lake City, UT measures what is in th
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-salt-lake-city-ut.webp","alt":"Water quality testing Salt Lake City UT tap water test vial and meter"}
-images: [{"file":"water-quality-testing-salt-lake-city-ut.webp","alt":"Water quality testing Salt Lake City UT tap water test vial and meter","exists":true},{"file":"card-free-hard-water-test-salt-lake-city-ut.webp","alt":"Free Hard Water Test Salt Lake City UT","exists":false},{"file":"card-tds-testing-salt-lake-city-ut.webp","alt":"TDS Testing Salt Lake City UT","exists":false},{"file":"card-iron-content-testing-salt-lake-city-ut.webp","alt":"Iron Content Testing Salt Lake City UT","exists":false},{"file":"card-ph-level-testing-salt-lake-city-ut.webp","alt":"pH Level Testing Salt Lake City UT","exists":false},{"file":"card-chlorine-testing-salt-lake-city-ut.webp","alt":"Chlorine Testing Salt Lake City UT","exists":false},{"file":"card-sulfur-testing-salt-lake-city-ut.webp","alt":"Sulfur Testing Salt Lake City UT","exists":false},{"file":"card-heavy-metals-testing-salt-lake-city-ut.webp","alt":"Heavy Metals Testing Salt Lake City UT","exists":false}]
+images: [{"file":"water-quality-testing-salt-lake-city-ut.webp","alt":"Water quality testing Salt Lake City UT tap water test vial and meter","exists":true},{"file":"card-free-hard-water-test-salt-lake-city-ut.webp","alt":"Free Hard Water Test Salt Lake City UT","exists":true},{"file":"card-tds-testing-salt-lake-city-ut.webp","alt":"TDS Testing Salt Lake City UT","exists":true},{"file":"card-iron-content-testing-salt-lake-city-ut.webp","alt":"Iron Content Testing Salt Lake City UT","exists":true},{"file":"card-ph-level-testing-salt-lake-city-ut.webp","alt":"pH Level Testing Salt Lake City UT","exists":true},{"file":"card-chlorine-testing-salt-lake-city-ut.webp","alt":"Chlorine Testing Salt Lake City UT","exists":true},{"file":"card-sulfur-testing-salt-lake-city-ut.webp","alt":"Sulfur Testing Salt Lake City UT","exists":true},{"file":"card-heavy-metals-testing-salt-lake-city-ut.webp","alt":"Heavy Metals Testing Salt Lake City UT","exists":true}]
 faq: [{"q":"Is the water test really free?","a":"The hard water test is free with an estimate."},{"q":"How long does a test take?","a":"A hardness test takes a few minutes at your tap. A fuller panel can take longer, and the technician tells you when results are ready."},{"q":"What hardness is high for Salt Lake City?","a":"Above 180 mg/L (10.5 gpg) is very hard by the USGS scale. SLCDPU lists 212 mg/L at its City Creek plant and up to 571 mg/L in its wells."},{"q":"Do I need to test if the city already tests the water?","a":"City reports describe the supply, not your plumbing. A home test shows what reaches your tap and sets the softener size. Salt Lake City Crest Water Softener UT provides water quality testing for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 2
 ---
@@ -25,7 +25,10 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 <div class="svc-card">
 
 
-![Free Hard Water Test Salt Lake City UT](/placeholders/card.svg)
+
+![Free Hard Water Test Salt Lake City UT](../../assets/images/card-free-hard-water-test-salt-lake-city-ut.webp)
+
+
 
 ### Free Hard Water Test
 
@@ -36,7 +39,10 @@ A [hard water](/water-softener-guides/hard-water-salt-lake-city-ut/) test reads 
 <div class="svc-card">
 
 
-![TDS Testing Salt Lake City UT](/placeholders/card.svg)
+
+![TDS Testing Salt Lake City UT](../../assets/images/card-tds-testing-salt-lake-city-ut.webp)
+
+
 
 ### TDS Testing
 
@@ -47,7 +53,10 @@ Total dissolved solids measures all dissolved minerals in milligrams per liter. 
 <div class="svc-card">
 
 
-![Iron Content Testing Salt Lake City UT](/placeholders/card.svg)
+
+![Iron Content Testing Salt Lake City UT](../../assets/images/card-iron-content-testing-salt-lake-city-ut.webp)
+
+
 
 ### Iron Content Testing
 
@@ -58,7 +67,10 @@ Iron stains fixtures and laundry and fouls softener resin. A reading above the s
 <div class="svc-card">
 
 
-![pH Level Testing Salt Lake City UT](/placeholders/card.svg)
+
+![pH Level Testing Salt Lake City UT](../../assets/images/card-ph-level-testing-salt-lake-city-ut.webp)
+
+
 
 ### pH Level Testing
 
@@ -69,7 +81,10 @@ pH shows whether water is acidic or alkaline. Low pH corrodes pipes, and the rea
 <div class="svc-card">
 
 
-![Chlorine Testing Salt Lake City UT](/placeholders/card.svg)
+
+![Chlorine Testing Salt Lake City UT](../../assets/images/card-chlorine-testing-salt-lake-city-ut.webp)
+
+
 
 ### Chlorine Testing
 
@@ -80,7 +95,10 @@ Chlorine is the disinfectant in city water, and SLCDPU's report states it adds c
 <div class="svc-card">
 
 
-![Sulfur Testing Salt Lake City UT](/placeholders/card.svg)
+
+![Sulfur Testing Salt Lake City UT](../../assets/images/card-sulfur-testing-salt-lake-city-ut.webp)
+
+
 
 ### Sulfur Testing
 
@@ -91,7 +109,10 @@ Sulfur gives a rotten-egg smell, and it is mainly a [private well](/well-water-s
 <div class="svc-card">
 
 
-![Heavy Metals Testing Salt Lake City UT](/placeholders/card.svg)
+
+![Heavy Metals Testing Salt Lake City UT](../../assets/images/card-heavy-metals-testing-salt-lake-city-ut.webp)
+
+
 
 ### Heavy Metals Testing
 

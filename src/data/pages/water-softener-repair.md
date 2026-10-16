@@ -11,7 +11,7 @@ openingHtml: "Water softener repair in Salt Lake City, UT finds and fixes the fa
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-repair-salt-lake-city-ut.webp","alt":"Water softener repair Salt Lake City UT control head opened for service"}
-images: [{"file":"water-softener-repair-salt-lake-city-ut.webp","alt":"Water softener repair Salt Lake City UT control head opened for service","exists":true},{"file":"card-water-softener-control-valve-repair-salt-lake-city-ut.webp","alt":"Water Softener Control Valve Repair Salt Lake City UT","exists":false},{"file":"card-water-softener-motor-replacement-salt-lake-city-ut.webp","alt":"Water Softener Motor Replacement Salt Lake City UT","exists":false},{"file":"card-float-valve-repair-salt-lake-city-ut.webp","alt":"Float Valve Repair Salt Lake City UT","exists":false},{"file":"card-injector-cleaning-salt-lake-city-ut.webp","alt":"Injector Cleaning Salt Lake City UT","exists":false},{"file":"card-head-replacement-salt-lake-city-ut.webp","alt":"Head Replacement Salt Lake City UT","exists":false},{"file":"card-brine-line-repair-salt-lake-city-ut.webp","alt":"Brine Line Repair Salt Lake City UT","exists":false},{"file":"card-water-softener-leak-repair-salt-lake-city-ut.webp","alt":"Water Softener Leak Repair Salt Lake City UT","exists":false}]
+images: [{"file":"water-softener-repair-salt-lake-city-ut.webp","alt":"Water softener repair Salt Lake City UT control head opened for service","exists":true},{"file":"card-water-softener-control-valve-repair-salt-lake-city-ut.webp","alt":"Water Softener Control Valve Repair Salt Lake City UT","exists":true},{"file":"card-water-softener-motor-replacement-salt-lake-city-ut.webp","alt":"Water Softener Motor Replacement Salt Lake City UT","exists":true},{"file":"card-float-valve-repair-salt-lake-city-ut.webp","alt":"Float Valve Repair Salt Lake City UT","exists":true},{"file":"card-injector-cleaning-salt-lake-city-ut.webp","alt":"Injector Cleaning Salt Lake City UT","exists":true},{"file":"card-head-replacement-salt-lake-city-ut.webp","alt":"Head Replacement Salt Lake City UT","exists":true},{"file":"card-brine-line-repair-salt-lake-city-ut.webp","alt":"Brine Line Repair Salt Lake City UT","exists":false},{"file":"card-water-softener-leak-repair-salt-lake-city-ut.webp","alt":"Water Softener Leak Repair Salt Lake City UT","exists":false}]
 faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water. Salt Lake City water is hard to very hard (136 to 212 mg/L at SLCDPU's surface water plants), so the difference shows quickly."},{"q":"How do I fix a water softener that is not regenerating?","a":"Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which."},{"q":"What causes a salt bridge?","a":"Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine."},{"q":"Why is my water softener leaking?","a":"Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part."},{"q":"How much does water softener repair cost?","a":"The cost depends on the part. We give a price before work begins."},{"q":"Do you offer same-day repair in Salt Lake City?","a":"Same-day service depends on technician availability . Call and we will schedule you as soon as a technician is free. Salt Lake City Crest Water Softener UT provides water softener repair for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 3
 ---
@@ -25,7 +25,10 @@ Seven repairs cover the common failures: control valve repair, motor [replacemen
 <div class="svc-card">
 
 
-![Water Softener Control Valve Repair Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Control Valve Repair Salt Lake City UT](../../assets/images/card-water-softener-control-valve-repair-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Control Valve Repair
 
@@ -36,7 +39,10 @@ The control valve directs water through the service, backwash, brine and rinse s
 <div class="svc-card">
 
 
-![Water Softener Motor Replacement Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Motor Replacement Salt Lake City UT](../../assets/images/card-water-softener-motor-replacement-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Motor Replacement
 
@@ -47,7 +53,10 @@ The motor turns the valve through its regeneration cycle. A failed motor leaves 
 <div class="svc-card">
 
 
-![Float Valve Repair Salt Lake City UT](/placeholders/card.svg)
+
+![Float Valve Repair Salt Lake City UT](../../assets/images/card-float-valve-repair-salt-lake-city-ut.webp)
+
+
 
 ### Float Valve Repair
 
@@ -58,7 +67,10 @@ The float valve controls the water level in the brine tank. A stuck float lets t
 <div class="svc-card">
 
 
-![Injector Cleaning Salt Lake City UT](/placeholders/card.svg)
+
+![Injector Cleaning Salt Lake City UT](../../assets/images/card-injector-cleaning-salt-lake-city-ut.webp)
+
+
 
 ### Injector Cleaning
 
@@ -69,7 +81,10 @@ The injector draws brine into the resin tank. Grit blocks it, and the unit then 
 <div class="svc-card">
 
 
-![Head Replacement Salt Lake City UT](/placeholders/card.svg)
+
+![Head Replacement Salt Lake City UT](../../assets/images/card-head-replacement-salt-lake-city-ut.webp)
+
+
 
 ### Head Replacement
 

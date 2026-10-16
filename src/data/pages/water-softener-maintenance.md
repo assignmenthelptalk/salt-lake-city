@@ -11,7 +11,7 @@ openingHtml: "Water softener maintenance in Salt Lake City, UT keeps a softener 
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-salt-lake-city-ut.webp","alt":"Water softener maintenance Salt Lake City UT brine tank with salt pellets"}
-images: [{"file":"water-softener-maintenance-salt-lake-city-ut.webp","alt":"Water softener maintenance Salt Lake City UT brine tank with salt pellets","exists":true},{"file":"card-water-softener-resin-cleaning-service-salt-lake-city-ut.webp","alt":"Water Softener Resin Cleaning Service Salt Lake City UT","exists":false},{"file":"card-water-softener-salt-refill-service-salt-lake-city-ut.webp","alt":"Water Softener Salt Refill Service Salt Lake City UT","exists":false},{"file":"card-water-softener-brine-tank-cleaning-salt-lake-city-ut.webp","alt":"Water Softener Brine Tank Cleaning Salt Lake City UT","exists":false},{"file":"card-annual-maintenance-plans-salt-lake-city-ut.webp","alt":"Annual Maintenance Plans Salt Lake City UT","exists":false}]
+images: [{"file":"water-softener-maintenance-salt-lake-city-ut.webp","alt":"Water softener maintenance Salt Lake City UT brine tank with salt pellets","exists":true},{"file":"card-water-softener-resin-cleaning-service-salt-lake-city-ut.webp","alt":"Water Softener Resin Cleaning Service Salt Lake City UT","exists":true},{"file":"card-water-softener-salt-refill-service-salt-lake-city-ut.webp","alt":"Water Softener Salt Refill Service Salt Lake City UT","exists":true},{"file":"card-water-softener-brine-tank-cleaning-salt-lake-city-ut.webp","alt":"Water Softener Brine Tank Cleaning Salt Lake City UT","exists":true},{"file":"card-annual-maintenance-plans-salt-lake-city-ut.webp","alt":"Annual Maintenance Plans Salt Lake City UT","exists":true}]
 faq: [{"q":"How often should I add salt to my water softener?","a":"Check the salt level monthly and refill it when the tank is below one third full. Households with very hard water use salt faster."},{"q":"What kind of salt should I use?","a":"Use the salt type the manufacturer lists for your unit, usually clean pellets or crystals. Rock salt can leave more residue in the tank."},{"q":"Why does my softener use so much salt?","a":"A salt bridge, a stuck valve or settings that do not match your hardness waste salt. The technician checks all three."},{"q":"Do I need a service plan?","a":"A plan suits homeowners who prefer a scheduled yearly check over remembering it. Your free estimate lists what each plan covers."},{"q":"How do I know my softener is working?","a":"Soap lathers easily, fixtures stay free of white crust and a hardness test of softened water reads near zero. A reading above 1 gpg means the system needs service . Salt Lake City Crest Water Softener UT provides water softener maintenance for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 6
 ---
@@ -25,7 +25,10 @@ Four services keep a softener at full capacity: resin cleaning, salt refills, br
 <div class="svc-card">
 
 
-![Water Softener Resin Cleaning Service Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Resin Cleaning Service Salt Lake City UT](../../assets/images/card-water-softener-resin-cleaning-service-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Resin Cleaning Service
 
@@ -36,7 +39,10 @@ Resin beads collect iron and sediment over time and lose capacity. Cleaning the 
 <div class="svc-card">
 
 
-![Water Softener Salt Refill Service Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Salt Refill Service Salt Lake City UT](../../assets/images/card-water-softener-salt-refill-service-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Salt Refill Service
 
@@ -47,7 +53,10 @@ A salt refill delivers and loads the correct salt for your unit, so the tank nev
 <div class="svc-card">
 
 
-![Water Softener Brine Tank Cleaning Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Brine Tank Cleaning Salt Lake City UT](../../assets/images/card-water-softener-brine-tank-cleaning-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Brine Tank Cleaning
 
@@ -58,7 +67,10 @@ Salt bridges and mushing form in the brine tank and stop brine from reaching the
 <div class="svc-card">
 
 
-![Annual Maintenance Plans Salt Lake City UT](/placeholders/card.svg)
+
+![Annual Maintenance Plans Salt Lake City UT](../../assets/images/card-annual-maintenance-plans-salt-lake-city-ut.webp)
+
+
 
 ### Annual Maintenance Plans
 
