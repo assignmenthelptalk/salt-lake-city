@@ -10,8 +10,8 @@ crumb: "Salt Lake City Crest Water Softener - Water Softener Installation"
 openingHtml: "Water softener installation in Salt Lake City, UT starts with the hardness of the water at your tap, which the Salt Lake City Department of Public Utilities (SLCDPU) lists at 136 to 212 mg/L at its three surface water plants and up to 571 mg/L in its wells. Salt Lake City Crest Water Softener sizes each system to that reading, then installs, repairs and replaces softeners across the valley. Request a free estimate below and a local technician will confirm the number for your street."
 formHeading: "Get Your Free Water Softener Estimate in Salt Lake City, UT"
 formIntro: "Salt Lake City homeowners can request a free estimate by phone or with the form in the page header. A technician confirms your hardness reading, your household size and the best spot for the unit, then gives a written price before any work starts. The same form also books a free hard water test."
-leadImage: null
-images: [{"file":"hero-water-softener-salt-lake-city-ut.webp","alt":"Water softener installed in a Salt Lake City UT home utility room","exists":false},{"file":"installed-softener-salt-lake-city-ut.webp","alt":"Installed water softener system Salt Lake City UT garage","exists":false},{"file":"card-water-softener-installation-salt-lake-city-ut.webp","alt":"Water Softener Installation Salt Lake City UT","exists":false},{"file":"card-water-softener-replacement-salt-lake-city-ut.webp","alt":"Water Softener Replacement Salt Lake City UT","exists":false},{"file":"card-salt-free-water-softener-systems-salt-lake-city-ut.webp","alt":"Salt-Free Water Softener Systems Salt Lake City UT","exists":false},{"file":"card-water-softener-repair-and-service-salt-lake-city-ut.webp","alt":"Water Softener Repair & Service Salt Lake City UT","exists":false},{"file":"card-whole-house-water-filtration-salt-lake-city-ut.webp","alt":"Whole House Water Filtration Salt Lake City UT","exists":false},{"file":"card-water-quality-testing-salt-lake-city-ut.webp","alt":"Water Quality Testing Salt Lake City UT","exists":false},{"file":"hard-water-buildup-salt-lake-city-ut.webp","alt":"Hard water scale buildup on a faucet water softener Salt Lake City UT","exists":false},{"file":"water-softener-installation-steps-salt-lake-city-ut.webp","alt":"Water softener installed with bypass valve and drain line in a Salt Lake City UT home","exists":false}]
+leadImage: {"file":"hero-water-softener-salt-lake-city-ut.webp","alt":"Water softener installed in a Salt Lake City UT home utility room"}
+images: [{"file":"hero-water-softener-salt-lake-city-ut.webp","alt":"Water softener installed in a Salt Lake City UT home utility room","exists":true},{"file":"installed-softener-salt-lake-city-ut.webp","alt":"Installed water softener system Salt Lake City UT garage","exists":true},{"file":"card-water-softener-installation-salt-lake-city-ut.webp","alt":"Water Softener Installation Salt Lake City UT","exists":true},{"file":"card-water-softener-replacement-salt-lake-city-ut.webp","alt":"Water Softener Replacement Salt Lake City UT","exists":true},{"file":"card-salt-free-water-softener-systems-salt-lake-city-ut.webp","alt":"Salt-Free Water Softener Systems Salt Lake City UT","exists":true},{"file":"card-water-softener-repair-and-service-salt-lake-city-ut.webp","alt":"Water Softener Repair & Service Salt Lake City UT","exists":true},{"file":"card-whole-house-water-filtration-salt-lake-city-ut.webp","alt":"Whole House Water Filtration Salt Lake City UT","exists":true},{"file":"card-water-quality-testing-salt-lake-city-ut.webp","alt":"Water Quality Testing Salt Lake City UT","exists":true},{"file":"hard-water-buildup-salt-lake-city-ut.webp","alt":"Hard water scale buildup on a faucet water softener Salt Lake City UT","exists":true},{"file":"water-softener-installation-steps-salt-lake-city-ut.webp","alt":"Water softener installed with bypass valve and drain line in a Salt Lake City UT home","exists":true}]
 faq: [{"q":"How hard is Salt Lake City water?","a":"SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L (8.0 to 12.4 gpg) at its three surface water plants and 154 to 571 mg/L (9.6 to 33.4 gpg) in its wells. That range runs from hard to very hard, so most homes benefit from a softener, and a free test shows your exact number."},{"q":"How much does water softener installation cost in Salt Lake City, UT?","a":"Cost depends on system size, type and the plumbing in your home. Your free estimate itemizes equipment, installation and any extra plumbing before you approve it."},{"q":"What is the best water softener for Salt Lake City water?","a":"A salt-based softener sized to your hardness reading gives the strongest result in water above 180 mg/L. Salt Lake City water spans 136 to 571 mg/L, so the best unit depends on your street's reading and your household size. Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you."},{"q":"Salt vs. salt-free water softener: what is the difference?","a":"A salt-based softener removes calcium and magnesium by ion exchange and leaves soft water. A salt-free conditioner changes how scale forms but leaves the minerals in the water. Choose salt-based for the strongest result in very hard water, and salt-free if you want no salt or brine drain and accept a milder effect."},{"q":"How long does water softener installation take?","a":"A standard installation typically takes about 2 to 4 hours . Plumbing access, drain location and system type can lengthen the visit, and the technician confirms the schedule at your estimate."},{"q":"Do I need a water softener with city water or well water in Salt Lake City?","a":"Yes, in both cases, because hardness appears in city and well water. SLCDPU measured its own wells at 154 to 571 mg/L, so groundwater is the harder source. Private wells need a water test first for iron and sulfur, which affect the softener."},{"q":"How often does a water softener need maintenance?","a":"Check the salt level monthly and refill it when the tank is below one third full. A technician should inspect the system once a year, clean the brine tank when salt bridges form and check the control head and resin."},{"q":"What areas do you serve?","a":"We serve Salt Lake City and nearby communities in the Salt Lake Valley. SLCDPU's service area includes Millcreek, Holladay and Cottonwood Heights in part. Call to confirm your address."}]
 markerCount: 10
 ---
@@ -21,7 +21,10 @@ markerCount: 10
 <div class="why-photo">
 
 
-![Installed water softener system Salt Lake City UT garage](/placeholders/tall.svg)
+
+![Installed water softener system Salt Lake City UT garage](../../assets/images/installed-softener-salt-lake-city-ut.webp)
+
+
 
 </div>
 
@@ -54,7 +57,10 @@ Six services cover most Salt Lake City homes, from a first installation to a wat
 <div class="svc-card">
 
 
-![Water Softener Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Installation Salt Lake City UT](../../assets/images/card-water-softener-installation-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Installation
 
@@ -65,7 +71,10 @@ A technician sizes a softener to your household and hardness, then connects it t
 <div class="svc-card">
 
 
-![Water Softener Replacement Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Replacement Salt Lake City UT](../../assets/images/card-water-softener-replacement-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Replacement
 
@@ -76,7 +85,10 @@ An old unit that no longer softens, leaks or uses too much salt can be replaced 
 <div class="svc-card">
 
 
-![Salt-Free Water Softener Systems Salt Lake City UT](/placeholders/card.svg)
+
+![Salt-Free Water Softener Systems Salt Lake City UT](../../assets/images/card-salt-free-water-softener-systems-salt-lake-city-ut.webp)
+
+
 
 ### Salt-Free Water Softener Systems
 
@@ -87,7 +99,10 @@ A salt-free conditioner changes how scale forms and leaves the hardness minerals
 <div class="svc-card">
 
 
-![Water Softener Repair & Service Salt Lake City UT](/placeholders/card.svg)
+
+![Water Softener Repair & Service Salt Lake City UT](../../assets/images/card-water-softener-repair-and-service-salt-lake-city-ut.webp)
+
+
 
 ### Water Softener Repair & Service
 
@@ -98,7 +113,10 @@ Repair covers units that stop regenerating, leak, throw error codes or let hard 
 <div class="svc-card">
 
 
-![Whole House Water Filtration Salt Lake City UT](/placeholders/card.svg)
+
+![Whole House Water Filtration Salt Lake City UT](../../assets/images/card-whole-house-water-filtration-salt-lake-city-ut.webp)
+
+
 
 ### Whole House Water Filtration
 
@@ -109,7 +127,10 @@ A whole-house filter removes sediment, chlorine taste and odor at the main line.
 <div class="svc-card">
 
 
-![Water Quality Testing Salt Lake City UT](/placeholders/card.svg)
+
+![Water Quality Testing Salt Lake City UT](../../assets/images/card-water-quality-testing-salt-lake-city-ut.webp)
+
+
 
 ### Water Quality Testing
 
@@ -129,7 +150,10 @@ Salt Lake City water is hard because of where it comes from.
 <div class="issues-photo">
 
 
-![Hard water scale buildup on a faucet water softener Salt Lake City UT](/placeholders/tall.svg)
+
+![Hard water scale buildup on a faucet water softener Salt Lake City UT](../../assets/images/hard-water-buildup-salt-lake-city-ut.webp)
+
+
 
 </div>
 
@@ -197,7 +221,10 @@ Water softener installation follows four steps from the first call to a tested r
 <div class="steps-photo">
 
 
-![Technician installing a water softener in a Salt Lake City UT home](/placeholders/tall.svg)
+
+![Water softener installed with bypass valve and drain line in a Salt Lake City UT home](../../assets/images/water-softener-installation-steps-salt-lake-city-ut.webp)
+
+
 
 </div>
 
