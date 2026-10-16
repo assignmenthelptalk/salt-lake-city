@@ -7,7 +7,7 @@ slug: "/water-softener-replacement/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Replacement"
-openingHtml: "Water softener replacement in Salt Lake City, UT swaps a failing softener for a correctly sized new system, so your home gets softened water again. <a href=\"/\">Salt Lake City Crest Water Softener</a> removes the old unit, sizes the new one to your hardness, which SLCDPU's 2025 report lists up to 198 mg/L at its surface water plants and up to 487 mg/L in its wells, and reconnects the plumbing. Request a free estimate and the technician will compare repair and replacement prices."
+openingHtml: "Water softener replacement in Salt Lake City, UT swaps a failing softener for a correctly sized new system, so your home gets softened water again. <a href=\"/\">Salt Lake City Crest Water Softener</a> removes the old unit, sizes the new one to your hardness, which SLCDPU's 2026 report lists up to 212 mg/L at its surface water plants and up to 571 mg/L in its wells, and reconnects the plumbing. Request a free estimate and the technician will compare repair and replacement prices."
 formHeading: ""
 formIntro: ""
 leadImage: null
@@ -26,7 +26,7 @@ Resin bed replacement swaps the resin beads inside the tank while keeping the ta
 
 ## Water Softener Upgrade Service
 
-An upgrade replaces an undersized or outdated unit with a larger or more efficient one. It fits a household that has grown or a home on harder water than the original unit was sized for. SLCDPU's wells run up to 487 mg/L total hardness, and a unit sized for 7 gpg water falls short at 28.6 gpg.
+An upgrade replaces an undersized or outdated unit with a larger or more efficient one. It fits a household that has grown or a home on harder water than the original unit was sized for. SLCDPU's wells run up to 571 mg/L total hardness, and a unit sized for 7 gpg water falls short at 33.4 gpg.
 
 ## Repair or Replace?
 

@@ -7,7 +7,7 @@ slug: "/water-softener-maintenance/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Maintenance"
-openingHtml: "Water softener maintenance in Salt Lake City, UT keeps a softener removing hardness at full capacity, which matters in water that SLCDPU's 2025 report lists up to 198 mg/L at its surface water plants and up to 487 mg/L in its wells. <a href=\"/\">Salt Lake City Crest Water Softener</a> cleans resin and brine tanks, refills salt and checks every control setting. Request a free estimate and the technician will recommend a service schedule."
+openingHtml: "Water softener maintenance in Salt Lake City, UT keeps a softener removing hardness at full capacity, which matters in water that SLCDPU's 2026 report lists up to 212 mg/L at its surface water plants and up to 571 mg/L in its wells. <a href=\"/\">Salt Lake City Crest Water Softener</a> cleans resin and brine tanks, refills salt and checks every control setting. Request a free estimate and the technician will recommend a service schedule."
 formHeading: ""
 formIntro: ""
 leadImage: null
@@ -70,7 +70,7 @@ An annual plan schedules a yearly inspection of the control head, resin and brin
 
 ## How Often Should You Service a Softener in Salt Lake City?
 
-Check salt monthly and schedule a technician visit once a year. Salt Lake City water measures 121 to 198 mg/L at SLCDPU's surface water plants, and very hard water uses salt and resin capacity faster. A hardness test of the softened water shows when service is due: a reading above 1 gpg means the system is not keeping up <mark class="data-gap">[VERIFY: typical softened-water target]</mark>.
+Check salt monthly and schedule a technician visit once a year. Salt Lake City water measures 136 to 212 mg/L at SLCDPU's surface water plants, and very hard water uses salt and resin capacity faster. A hardness test of the softened water shows when service is due: a reading above 1 gpg means the system is not keeping up <mark class="data-gap">[VERIFY: typical softened-water target]</mark>.
 
 > **Not a good fit if...** your unit is past about 10 to 15 years old <mark class="data-gap">[VERIFY: cite source]</mark> and needs repeated repairs. Replacement is the better spend.
 

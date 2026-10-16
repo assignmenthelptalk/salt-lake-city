@@ -1,18 +1,18 @@
 ---
 title: "Salt Lake City Crest Water Softener - Water Softener Installation in Salt Lake City, UT"
 seoTitle: "Water Softener Salt Lake City, UT | Salt Lake City Crest Water Softener"
-description: "Water softener installation, replacement and repair in Salt Lake City, UT. Local water measures 121 to 487 mg/L hard. Request a free estimate today."
+description: "Water softener installation, replacement and repair in Salt Lake City, UT. Local water measures 136 to 571 mg/L hard. Request a free estimate today."
 metaDraft: false
 slug: "/"
 pageType: "home"
 parentSlug: null
 crumb: "Salt Lake City Crest Water Softener - Water Softener Installation"
-openingHtml: "Water softener installation in Salt Lake City, UT starts with the hardness of the water at your tap, which the Salt Lake City Department of Public Utilities (SLCDPU) lists at 121 to 198 mg/L at its three surface water plants and up to 487 mg/L in its wells. Salt Lake City Crest Water Softener sizes each system to that reading, then installs, repairs and replaces softeners across the valley. Request a free estimate below and a local technician will confirm the number for your street."
+openingHtml: "Water softener installation in Salt Lake City, UT starts with the hardness of the water at your tap, which the Salt Lake City Department of Public Utilities (SLCDPU) lists at 136 to 212 mg/L at its three surface water plants and up to 571 mg/L in its wells. Salt Lake City Crest Water Softener sizes each system to that reading, then installs, repairs and replaces softeners across the valley. Request a free estimate below and a local technician will confirm the number for your street."
 formHeading: "Get Your Free Water Softener Estimate in Salt Lake City, UT"
 formIntro: "Salt Lake City homeowners can request a free estimate by phone or with the form in the page header. A technician confirms your hardness reading, your household size and the best spot for the unit, then gives a written price before any work starts. The same form also books a free hard water test."
 leadImage: null
 images: [{"file":"hero-water-softener-salt-lake-city-ut.webp","alt":"Technician installing a water softener Salt Lake City UT home","exists":false},{"file":"installed-softener-salt-lake-city-ut.webp","alt":"Installed water softener system Salt Lake City UT garage","exists":false},{"file":"card-water-softener-installation-salt-lake-city-ut.webp","alt":"Water Softener Installation Salt Lake City UT","exists":false},{"file":"card-water-softener-replacement-salt-lake-city-ut.webp","alt":"Water Softener Replacement Salt Lake City UT","exists":false},{"file":"card-salt-free-water-softener-systems-salt-lake-city-ut.webp","alt":"Salt-Free Water Softener Systems Salt Lake City UT","exists":false},{"file":"card-water-softener-repair-and-service-salt-lake-city-ut.webp","alt":"Water Softener Repair & Service Salt Lake City UT","exists":false},{"file":"card-whole-house-water-filtration-salt-lake-city-ut.webp","alt":"Whole House Water Filtration Salt Lake City UT","exists":false},{"file":"card-water-quality-testing-salt-lake-city-ut.webp","alt":"Water Quality Testing Salt Lake City UT","exists":false},{"file":"hard-water-buildup-salt-lake-city-ut.webp","alt":"Hard water scale buildup on a faucet water softener Salt Lake City UT","exists":false},{"file":"water-softener-installation-steps-salt-lake-city-ut.webp","alt":"Technician installing a water softener in a Salt Lake City UT home","exists":false}]
-faq: [{"q":"How hard is Salt Lake City water?","a":"SLCDPU's 2025 report lists total hardness of 121 to 198 mg/L (7.1 to 11.6 gpg) at its three surface water plants and 157 to 487 mg/L (9.2 to 28.6 gpg) in its wells. That range runs from hard to very hard, so most homes benefit from a softener, and a free test shows your exact number."},{"q":"How much does water softener installation cost in Salt Lake City, UT?","a":"Cost depends on system size, type and the plumbing in your home. Your free estimate itemizes equipment, installation and any extra plumbing before you approve it."},{"q":"What is the best water softener for Salt Lake City water?","a":"A salt-based softener sized to your hardness reading gives the strongest result in water above 180 mg/L. Salt Lake City water spans 121 to 487 mg/L, so the best unit depends on your street's reading and your household size. Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you."},{"q":"Salt vs. salt-free water softener: what is the difference?","a":"A salt-based softener removes calcium and magnesium by ion exchange and leaves soft water. A salt-free conditioner changes how scale forms but leaves the minerals in the water. Choose salt-based for the strongest result in very hard water, and salt-free if you want no salt or brine drain and accept a milder effect."},{"q":"How long does water softener installation take?","a":"A standard installation typically takes about 2 to 4 hours . Plumbing access, drain location and system type can lengthen the visit, and the technician confirms the schedule at your estimate."},{"q":"Do I need a water softener with city water or well water in Salt Lake City?","a":"Yes, in both cases, because hardness appears in city and well water. SLCDPU measured its own wells at 157 to 487 mg/L, so groundwater is the harder source. Private wells need a water test first for iron and sulfur, which affect the softener."},{"q":"How often does a water softener need maintenance?","a":"Check the salt level monthly and refill it when the tank is below one third full. A technician should inspect the system once a year, clean the brine tank when salt bridges form and check the control head and resin."},{"q":"What areas do you serve?","a":"We serve Salt Lake City and nearby communities in the Salt Lake Valley. SLCDPU's service area includes Millcreek, Holladay and Cottonwood Heights in part. Call to confirm your address."}]
+faq: [{"q":"How hard is Salt Lake City water?","a":"SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L (8.0 to 12.4 gpg) at its three surface water plants and 154 to 571 mg/L (9.6 to 33.4 gpg) in its wells. That range runs from hard to very hard, so most homes benefit from a softener, and a free test shows your exact number."},{"q":"How much does water softener installation cost in Salt Lake City, UT?","a":"Cost depends on system size, type and the plumbing in your home. Your free estimate itemizes equipment, installation and any extra plumbing before you approve it."},{"q":"What is the best water softener for Salt Lake City water?","a":"A salt-based softener sized to your hardness reading gives the strongest result in water above 180 mg/L. Salt Lake City water spans 136 to 571 mg/L, so the best unit depends on your street's reading and your household size. Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you."},{"q":"Salt vs. salt-free water softener: what is the difference?","a":"A salt-based softener removes calcium and magnesium by ion exchange and leaves soft water. A salt-free conditioner changes how scale forms but leaves the minerals in the water. Choose salt-based for the strongest result in very hard water, and salt-free if you want no salt or brine drain and accept a milder effect."},{"q":"How long does water softener installation take?","a":"A standard installation typically takes about 2 to 4 hours . Plumbing access, drain location and system type can lengthen the visit, and the technician confirms the schedule at your estimate."},{"q":"Do I need a water softener with city water or well water in Salt Lake City?","a":"Yes, in both cases, because hardness appears in city and well water. SLCDPU measured its own wells at 154 to 571 mg/L, so groundwater is the harder source. Private wells need a water test first for iron and sulfur, which affect the softener."},{"q":"How often does a water softener need maintenance?","a":"Check the salt level monthly and refill it when the tank is below one third full. A technician should inspect the system once a year, clean the brine tank when salt bridges form and check the control head and resin."},{"q":"What areas do you serve?","a":"We serve Salt Lake City and nearby communities in the Salt Lake Valley. SLCDPU's service area includes Millcreek, Holladay and Cottonwood Heights in part. Call to confirm your address."}]
 markerCount: 10
 ---
 
@@ -139,7 +139,7 @@ Salt Lake City water is hard because of where it comes from.
 
 ### Where Does Salt Lake City Water Come From?
 
-According to the SLCDPU 2025 Water Quality Report, the city draws water from Wasatch Range streams (City Creek, Parleys Creek, Big Cottonwood Creek and Little Cottonwood Creek) treated at three surface water plants. In summer, as stream runoff falls, SLCDPU adds groundwater from wells. It also buys treated water from the Metropolitan Water District of Salt Lake and Sandy and from the Jordan Valley Water Conservancy District.
+According to the SLCDPU 2026 Water Quality Report, the city draws water from Wasatch Range streams (City Creek, Parleys Creek, Big Cottonwood Creek and Little Cottonwood Creek) treated at three surface water plants. In summer, as stream runoff falls, SLCDPU adds groundwater from wells. It also buys treated water from the Metropolitan Water District of Salt Lake and Sandy and from the Jordan Valley Water Conservancy District.
 
 </div>
 
@@ -147,7 +147,7 @@ According to the SLCDPU 2025 Water Quality Report, the city draws water from Was
 
 ### How Hard Is Salt Lake City Water?
 
-SLCDPU's report lists total hardness of 121 mg/L (7.1 grains per gallon) at its Big Cottonwood plant, 174 mg/L (10.2 gpg) at Parleys and 198 mg/L (11.6 gpg) at City Creek. SLC wells measured 157 to 487 mg/L, or 9.2 to 28.6 gpg, and Jordan Valley district water measured 189.4 mg/L, about 11.1 gpg. The report gives no single city-wide average, so your street's reading depends on the blend that reaches it.
+SLCDPU's report lists total hardness of 136 mg/L (8.0 grains per gallon) at its Big Cottonwood plant, 175 mg/L (10.2 gpg) at Parleys and 212 mg/L (12.4 gpg) at City Creek. SLC wells measured 154 to 571 mg/L, or 9.6 to 33.4 gpg, and Jordan Valley district water measured 184.1 mg/L, about 10.8 gpg. The report gives no single city-wide average, so your street's reading depends on the blend that reaches it.
 
 </div>
 
@@ -234,7 +234,7 @@ Most questions homeowners ask before buying fall into eight areas: water hardnes
 <details class="faq-item">
 <summary>How hard is Salt Lake City water?</summary>
 
-SLCDPU's 2025 report lists total hardness of 121 to 198 mg/L (7.1 to 11.6 gpg) at its three surface water plants and 157 to 487 mg/L (9.2 to 28.6 gpg) in its wells. That range runs from hard to very hard, so most homes benefit from a softener, and a free test shows your exact number.
+SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L (8.0 to 12.4 gpg) at its three surface water plants and 154 to 571 mg/L (9.6 to 33.4 gpg) in its wells. That range runs from hard to very hard, so most homes benefit from a softener, and a free test shows your exact number.
 
 </details>
 
@@ -248,7 +248,7 @@ Cost depends on system size, type and the plumbing in your home. <mark class="da
 <details class="faq-item">
 <summary>What is the best water softener for Salt Lake City water?</summary>
 
-A salt-based softener sized to your hardness reading gives the strongest result in water above 180 mg/L. Salt Lake City water spans 121 to 487 mg/L, so the best unit depends on your street's reading and your household size. <mark class="data-gap">[NEEDS DATA: SpringWell affiliate link, salt-based softener recommendation.]</mark> *Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you.*
+A salt-based softener sized to your hardness reading gives the strongest result in water above 180 mg/L. Salt Lake City water spans 136 to 571 mg/L, so the best unit depends on your street's reading and your household size. <mark class="data-gap">[NEEDS DATA: SpringWell affiliate link, salt-based softener recommendation.]</mark> *Disclosure: if you buy through a SpringWell link on this site, the site may earn a commission at no extra cost to you.*
 
 </details>
 
@@ -269,7 +269,7 @@ A standard installation typically takes about 2 to 4 hours <mark class="data-gap
 <details class="faq-item">
 <summary>Do I need a water softener with city water or well water in Salt Lake City?</summary>
 
-Yes, in both cases, because hardness appears in city and well water. SLCDPU measured its own wells at 157 to 487 mg/L, so groundwater is the harder source. Private wells need a water test first for iron and sulfur, which affect the softener.
+Yes, in both cases, because hardness appears in city and well water. SLCDPU measured its own wells at 154 to 571 mg/L, so groundwater is the harder source. Private wells need a water test first for iron and sulfur, which affect the softener.
 
 </details>
 

@@ -290,7 +290,7 @@ export const siteConfig: SiteConfig = {
   domain,
 
   // Water hardness data
-  gpgLow: 7,
+  gpgLow: 8,
   gpgHigh: 12,
   gpgLabel: "Hard to Very Hard",
   waterSource: "Wasatch Range mountain streams treated at three SLCDPU surface water plants, valley groundwater wells and springs (more in summer), and treated water bought from the Metropolitan Water District of Salt Lake and Sandy and the Jordan Valley Water Conservancy District",

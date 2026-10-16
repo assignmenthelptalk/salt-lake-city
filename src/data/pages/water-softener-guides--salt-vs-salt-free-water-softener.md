@@ -1,13 +1,13 @@
 ---
 title: "Salt-Based vs Salt-Free Water Softener in Salt Lake City, UT | Trusted Local Specialists"
 seoTitle: "Salt vs Salt-Free Softener Salt Lake City, UT | Salt Lake City Crest Water Softener"
-description: "Salt-based vs salt-free water softeners in Salt Lake City, UT: how each works, what each does in 121 to 487 mg/L water and which fits your home."
+description: "Salt-based vs salt-free water softeners in Salt Lake City, UT: how each works, what each does in 136 to 571 mg/L water and which fits your home."
 metaDraft: false
 slug: "/water-softener-guides/salt-vs-salt-free-water-softener/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
 crumb: "Salt-Based vs Salt-Free Water Softener"
-openingHtml: "A salt-based softener removes the calcium and magnesium that make Salt Lake City water hard, while a salt-free conditioner changes how scale forms and leaves those minerals in the water. SLCDPU's 2025 report lists total hardness from 121 to 198 mg/L at its surface water plants and up to 487 mg/L in its wells, which is hard to very hard. Salt Lake City Crest Water Softener installs both. Request a free estimate and a technician will recommend one for your water."
+openingHtml: "A salt-based softener removes the calcium and magnesium that make Salt Lake City water hard, while a salt-free conditioner changes how scale forms and leaves those minerals in the water. SLCDPU's 2026 report lists total hardness from 136 to 212 mg/L at its surface water plants and up to 571 mg/L in its wells, which is hard to very hard. Salt Lake City Crest Water Softener installs both. Request a free estimate and a technician will recommend one for your water."
 formHeading: ""
 formIntro: ""
 leadImage: null
@@ -18,7 +18,7 @@ markerCount: 4
 
 ## How Does a Salt-Based Water Softener Work?
 
-A salt-based softener passes water through resin beads that swap calcium and magnesium for sodium or potassium. The unit regenerates with a brine rinse when the resin fills, so water leaving the tank is soft. It gives the strongest result in water above 180 mg/L, which covers SLCDPU's City Creek plant (198 mg/L), Jordan Valley supply (189.4 mg/L) and its wells (up to 487 mg/L).
+A salt-based softener passes water through resin beads that swap calcium and magnesium for sodium or potassium. The unit regenerates with a brine rinse when the resin fills, so water leaving the tank is soft. It gives the strongest result in water above 180 mg/L, which covers SLCDPU's City Creek plant (212 mg/L), Jordan Valley supply (184.1 mg/L) and its wells (up to 571 mg/L).
 
 ## How Does a Salt-Free Conditioner Work?
 

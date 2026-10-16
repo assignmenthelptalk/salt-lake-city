@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Size Guide in Salt Lake City, UT | Trusted Local Specialists"
 seoTitle: "Water Softener Size Guide Salt Lake City, UT | Salt Lake City Crest Water Softener"
-description: "What size water softener does a Salt Lake City home need? Grain capacity by household and hardness, with worked examples from SLCDPU's 2025 figures."
+description: "What size water softener does a Salt Lake City home need? Grain capacity by household and hardness, with worked examples from SLCDPU's 2026 figures."
 metaDraft: false
 slug: "/water-softener-guides/water-softener-size-guide/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
 crumb: "Water Softener Size Guide"
-openingHtml: "Water softener size in Salt Lake City, UT depends on three numbers: household size, daily water use and hardness in grains per gallon. SLCDPU's 2025 report lists 7.1 to 11.6 gpg at its three surface water plants and up to 28.6 gpg in its wells, so the same household can need very different capacity on different streets. Salt Lake City Crest Water Softener sizes each unit to the tap reading. Request a free estimate and a technician will run the numbers for your home."
+openingHtml: "Water softener size in Salt Lake City, UT depends on three numbers: household size, daily water use and hardness in grains per gallon. SLCDPU's 2026 report lists 8.0 to 12.4 gpg at its three surface water plants and up to 33.4 gpg in its wells, so the same household can need very different capacity on different streets. Salt Lake City Crest Water Softener sizes each unit to the tap reading. Request a free estimate and a technician will run the numbers for your home."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-size-guide-salt-lake-city-ut.webp","alt":"Water softener size guide Salt Lake City UT capacity chart"}
 images: [{"file":"water-softener-size-guide-salt-lake-city-ut.webp","alt":"Water softener size guide Salt Lake City UT capacity chart","exists":true}]
-faq: [{"q":"What size water softener do I need for a family of four?","a":"A household of four uses about 300 gallons a day on a common sizing assumption. At 11.6 gpg that is 3,480 grains per day, so a 32,000-grain softener regenerates about every 9 days."},{"q":"Is a bigger softener better?","a":"A larger unit regenerates less often but uses more salt per cycle and costs more. Choose the capacity that fits your daily grains with a reasonable interval between regenerations."},{"q":"What happens if my softener is too small?","a":"It regenerates too often, uses extra salt and water, and can run out of capacity during heavy use, so hard water reaches the taps."},{"q":"Do I size by grains or by gallons?","a":"Both matter. Grains measure the capacity of the resin, and gallons measure how much water you use each day. The sizing formula multiplies gallons by hardness to get grains. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
+faq: [{"q":"What size water softener do I need for a family of four?","a":"A household of four uses about 300 gallons a day on a common sizing assumption. At 12.4 gpg that is 3,720 grains per day, so a 32,000-grain softener regenerates about every 9 days."},{"q":"Is a bigger softener better?","a":"A larger unit regenerates less often but uses more salt per cycle and costs more. Choose the capacity that fits your daily grains with a reasonable interval between regenerations."},{"q":"What happens if my softener is too small?","a":"It regenerates too often, uses extra salt and water, and can run out of capacity during heavy use, so hard water reaches the taps."},{"q":"Do I size by grains or by gallons?","a":"Both matter. Grains measure the capacity of the resin, and gallons measure how much water you use each day. The sizing formula multiplies gallons by hardness to get grains. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 4
 ---
 
@@ -22,7 +22,7 @@ Daily grains to remove equal gallons used per day multiplied by hardness in gpg.
 
 ## Worked Examples for Salt Lake City Water
 
-A household of four on City Creek-plant water at 11.6 gpg needs 300 x 11.6 = 3,480 grains per day, so a 32,000-grain unit regenerates about every 9 days. On Big Cottonwood-plant water at 7.1 gpg the same household needs 2,130 grains per day, so a 32,000-grain unit lasts about 15 days. On well water at 28.6 gpg it needs 8,580 grains per day, so a 48,000-grain unit regenerates about every 5.6 days and a 32,000-grain unit about every 3.7 days.
+A household of four on City Creek-plant water at 12.4 gpg needs 300 x 12.4 = 3,720 grains per day, so a 32,000-grain unit regenerates about every 9 days. On Big Cottonwood-plant water at 8.0 gpg the same household needs 2,400 grains per day, so a 32,000-grain unit lasts about 13 days. On well water at 33.4 gpg it needs 10,020 grains per day, so a 48,000-grain unit regenerates about every 4.8 days and a 32,000-grain unit about every 3.2 days.
 
 ## Iron and Other Adjustments
 
@@ -52,7 +52,7 @@ To go further, see [the hard water guide](/water-softener-guides/hard-water-salt
 <details class="faq-item">
 <summary>What size water softener do I need for a family of four?</summary>
 
-A household of four uses about 300 gallons a day on a common sizing assumption. At 11.6 gpg that is 3,480 grains per day, so a 32,000-grain softener regenerates about every 9 days.
+A household of four uses about 300 gallons a day on a common sizing assumption. At 12.4 gpg that is 3,720 grains per day, so a 32,000-grain softener regenerates about every 9 days.
 
 </details>
 

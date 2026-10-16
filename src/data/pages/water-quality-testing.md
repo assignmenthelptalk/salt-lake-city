@@ -7,12 +7,12 @@ slug: "/water-quality-testing/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Quality Testing"
-openingHtml: "Water quality testing in Salt Lake City, UT measures what is in the water at your tap, starting with hardness, which SLCDPU's 2025 report lists from 121 to 198 mg/L at its surface water plants and up to 487 mg/L in its wells. <a href=\"/\">Salt Lake City Crest Water Softener</a> offers a free hard water test and fuller panels for iron, pH, chlorine, sulfur and metals. Request a free estimate and book the test."
+openingHtml: "Water quality testing in Salt Lake City, UT measures what is in the water at your tap, starting with hardness, which SLCDPU's 2026 report lists from 136 to 212 mg/L at its surface water plants and up to 571 mg/L in its wells. <a href=\"/\">Salt Lake City Crest Water Softener</a> offers a free hard water test and fuller panels for iron, pH, chlorine, sulfur and metals. Request a free estimate and book the test."
 formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-quality-testing-salt-lake-city-ut.webp","alt":"Water quality testing Salt Lake City UT technician testing tap water","exists":false},{"file":"card-free-hard-water-test-salt-lake-city-ut.webp","alt":"Free Hard Water Test Salt Lake City UT","exists":false},{"file":"card-tds-testing-salt-lake-city-ut.webp","alt":"TDS Testing Salt Lake City UT","exists":false},{"file":"card-iron-content-testing-salt-lake-city-ut.webp","alt":"Iron Content Testing Salt Lake City UT","exists":false},{"file":"card-ph-level-testing-salt-lake-city-ut.webp","alt":"pH Level Testing Salt Lake City UT","exists":false},{"file":"card-chlorine-testing-salt-lake-city-ut.webp","alt":"Chlorine Testing Salt Lake City UT","exists":false},{"file":"card-sulfur-testing-salt-lake-city-ut.webp","alt":"Sulfur Testing Salt Lake City UT","exists":false},{"file":"card-heavy-metals-testing-salt-lake-city-ut.webp","alt":"Heavy Metals Testing Salt Lake City UT","exists":false}]
-faq: [{"q":"Is the water test really free?","a":"The hard water test is free with an estimate."},{"q":"How long does a test take?","a":"A hardness test takes a few minutes at your tap. A fuller panel can take longer, and the technician tells you when results are ready."},{"q":"What hardness is high for Salt Lake City?","a":"Above 180 mg/L (10.5 gpg) is very hard by the USGS scale. SLCDPU lists 198 mg/L at its City Creek plant and up to 487 mg/L in its wells."},{"q":"Do I need to test if the city already tests the water?","a":"City reports describe the supply, not your plumbing. A home test shows what reaches your tap and sets the softener size. Salt Lake City Crest Water Softener UT provides water quality testing for homes and businesses across Salt Lake City and Salt Lake County."}]
+faq: [{"q":"Is the water test really free?","a":"The hard water test is free with an estimate."},{"q":"How long does a test take?","a":"A hardness test takes a few minutes at your tap. A fuller panel can take longer, and the technician tells you when results are ready."},{"q":"What hardness is high for Salt Lake City?","a":"Above 180 mg/L (10.5 gpg) is very hard by the USGS scale. SLCDPU lists 212 mg/L at its City Creek plant and up to 571 mg/L in its wells."},{"q":"Do I need to test if the city already tests the water?","a":"City reports describe the supply, not your plumbing. A home test shows what reaches your tap and sets the softener size. Salt Lake City Crest Water Softener UT provides water quality testing for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 2
 ---
 
@@ -29,7 +29,7 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 
 ### Free Hard Water Test
 
-A [hard water](/water-softener-guides/hard-water-salt-lake-city-ut/) test reads calcium and magnesium in grains per gallon. SLCDPU lists 7.1 to 11.6 gpg at its surface water plants, and the test shows your street's number so a softener is sized correctly.
+A [hard water](/water-softener-guides/hard-water-salt-lake-city-ut/) test reads calcium and magnesium in grains per gallon. SLCDPU lists 8.0 to 12.4 gpg at its surface water plants, and the test shows your street's number so a softener is sized correctly.
 
 </div>
 
@@ -95,7 +95,7 @@ Sulfur gives a rotten-egg smell, and it is mainly a private well issue. A positi
 
 ### Heavy Metals Testing
 
-A metals panel checks for lead, arsenic and similar contaminants. SLCDPU's 2025 report describes lead service line replacement funding, and a home test shows what reaches your tap through your own plumbing.
+A metals panel checks for lead, arsenic and similar contaminants. SLCDPU's 2026 report describes lead service line replacement funding, and a home test shows what reaches your tap through your own plumbing.
 
 </div>
 
@@ -137,7 +137,7 @@ A hardness test takes a few minutes at your tap. A fuller panel can take longer,
 <details class="faq-item">
 <summary>What hardness is high for Salt Lake City?</summary>
 
-Above 180 mg/L (10.5 gpg) is very hard by the USGS scale. SLCDPU lists 198 mg/L at its City Creek plant and up to 487 mg/L in its wells.
+Above 180 mg/L (10.5 gpg) is very hard by the USGS scale. SLCDPU lists 212 mg/L at its City Creek plant and up to 571 mg/L in its wells.
 
 </details>
 

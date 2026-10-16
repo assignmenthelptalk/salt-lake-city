@@ -1,18 +1,18 @@
 ---
 title: "Hard Water in Salt Lake City, UT | Trusted Local Specialists"
 seoTitle: "Hard Water in Salt Lake City, UT | Salt Lake City Crest Water Softener"
-description: "How hard is Salt Lake City water? SLCDPU's 2025 report lists 121 to 487 mg/L by source. See the figures, what they do to a home and how to fix them."
+description: "How hard is Salt Lake City water? SLCDPU's 2026 report lists 136 to 571 mg/L by source. See the figures, what they do to a home and how to fix them."
 metaDraft: false
 slug: "/water-softener-guides/hard-water-salt-lake-city-ut/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
 crumb: "Hard Water"
-openingHtml: "Hard water in Salt Lake City, UT measures 121 to 198 mg/L at the three surface water plants of the Salt Lake City Department of Public Utilities and 157 to 487 mg/L in its wells, according to its 2025 Water Quality Report. By the USGS scale, that range runs from hard to very hard. Salt Lake City Crest Water Softener explains what each figure means and what to do about it. Request a free estimate for a test at your tap."
+openingHtml: "Hard water in Salt Lake City, UT measures 136 to 212 mg/L at the three surface water plants of the Salt Lake City Department of Public Utilities and 154 to 571 mg/L in its wells, according to its 2026 Water Quality Report. By the USGS scale, that range runs from hard to very hard. Salt Lake City Crest Water Softener explains what each figure means and what to do about it. Request a free estimate for a test at your tap."
 formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"hard-water-salt-lake-city-ut.webp","alt":"Hard water Salt Lake City UT scale buildup on a showerhead","exists":false},{"file":"card-what-is-hard-water-salt-lake-city-ut.webp","alt":"What Is Hard Water? Salt Lake City UT","exists":false},{"file":"card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp","alt":"Why Is Salt Lake City Water Hard? Salt Lake City UT","exists":false},{"file":"card-how-hard-is-salt-lake-city-water-salt-lake-city-ut.webp","alt":"How Hard Is Salt Lake City Water? Salt Lake City UT","exists":false}]
-faq: [{"q":"Is Salt Lake City water hard?","a":"Yes. SLCDPU's 2025 report lists total hardness of 121 to 198 mg/L at its surface water plants and 157 to 487 mg/L in its wells, which is hard to very hard on the USGS scale."},{"q":"Is hard water bad for your health?","a":"Hard water is not a health risk in the amounts found in Salt Lake City. It affects plumbing, appliances, skin and laundry rather than drinking safety."},{"q":"Why is my neighbor's water harder than mine?","a":"Different streets receive different blends of surface water, wells and wholesale supply. SLCDPU's own sources range from 121 to 487 mg/L, so neighboring streets can differ."},{"q":"Does boiling remove water hardness?","a":"Boiling precipitates some of the temporary hardness as scale, and it does not make hard water soft. A softener removes the minerals before they reach the pipes. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
+faq: [{"q":"Is Salt Lake City water hard?","a":"Yes. SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L at its surface water plants and 154 to 571 mg/L in its wells, which is hard to very hard on the USGS scale."},{"q":"Is hard water bad for your health?","a":"Hard water is not a health risk in the amounts found in Salt Lake City. It affects plumbing, appliances, skin and laundry rather than drinking safety."},{"q":"Why is my neighbor's water harder than mine?","a":"Different streets receive different blends of surface water, wells and wholesale supply. SLCDPU's own sources range from 136 to 571 mg/L, so neighboring streets can differ."},{"q":"Does boiling remove water hardness?","a":"Boiling precipitates some of the temporary hardness as scale, and it does not make hard water soft. A softener removes the minerals before they reach the pipes. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 0
 ---
 
@@ -51,7 +51,7 @@ Salt Lake City water is hard because it carries minerals from the mountains and 
 
 ### How Hard Is Salt Lake City Water?
 
-SLCDPU's 2025 report lists total hardness by source: 121 mg/L (7.1 gpg) at Big Cottonwood, 174 mg/L (10.2 gpg) at Parleys, 198 mg/L (11.6 gpg) at City Creek, 157 to 487 mg/L (9.2 to 28.6 gpg) in SLC wells and 189.4 mg/L (about 11.1 gpg) in Jordan Valley district water. The report gives no city-wide average, so your tap reading depends on the blend that serves your street.
+SLCDPU's 2026 report lists total hardness by source: 136 mg/L (8.0 gpg) at Big Cottonwood, 175 mg/L (10.2 gpg) at Parleys, 212 mg/L (12.4 gpg) at City Creek, 154 to 571 mg/L (9.6 to 33.4 gpg) in SLC wells and 184.1 mg/L (about 10.8 gpg) in Jordan Valley district water. The report gives no city-wide average, so your tap reading depends on the blend that serves your street.
 
 </div>
 
@@ -85,7 +85,7 @@ To go further, see [how to size a water softener](/water-softener-guides/water-s
 <details class="faq-item">
 <summary>Is Salt Lake City water hard?</summary>
 
-Yes. SLCDPU's 2025 report lists total hardness of 121 to 198 mg/L at its surface water plants and 157 to 487 mg/L in its wells, which is hard to very hard on the USGS scale.
+Yes. SLCDPU's 2026 report lists total hardness of 136 to 212 mg/L at its surface water plants and 154 to 571 mg/L in its wells, which is hard to very hard on the USGS scale.
 
 </details>
 
@@ -99,7 +99,7 @@ Hard water is not a health risk in the amounts found in Salt Lake City. It affec
 <details class="faq-item">
 <summary>Why is my neighbor's water harder than mine?</summary>
 
-Different streets receive different blends of surface water, wells and wholesale supply. SLCDPU's own sources range from 121 to 487 mg/L, so neighboring streets can differ.
+Different streets receive different blends of surface water, wells and wholesale supply. SLCDPU's own sources range from 136 to 571 mg/L, so neighboring streets can differ.
 
 </details>
 

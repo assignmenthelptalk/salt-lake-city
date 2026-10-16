@@ -7,7 +7,7 @@ slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Installation"
-openingHtml: "Water softener installation in Salt Lake City, UT connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Salt Lake City Crest Water Softener</a> sizes each system to the hardness at your tap, which SLCDPU's 2025 report puts between 121 and 198 mg/L at its surface water plants and up to 487 mg/L in its wells. Request a free estimate and a technician will recommend a system for your home."
+openingHtml: "Water softener installation in Salt Lake City, UT connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Salt Lake City Crest Water Softener</a> sizes each system to the hardness at your tap, which SLCDPU's 2026 report puts between 136 and 212 mg/L at its surface water plants and up to 571 mg/L in its wells. Request a free estimate and a technician will recommend a system for your home."
 formHeading: ""
 formIntro: ""
 leadImage: null
@@ -18,7 +18,7 @@ markerCount: 5
 
 ## Whole-House Installation
 
-A whole-house installation puts one softener on the main water line, so hot and cold water at every fixture is softened. The technician sets the unit near a drain and an electrical outlet, usually in a garage or utility room, and connects the brine tank, drain line and bypass valve. The size depends on your household and on hardness: SLCDPU lists 7.1 to 11.6 grains per gallon at its three surface water plants, and a [water test](/water-quality-testing/) shows your own number.
+A whole-house installation puts one softener on the main water line, so hot and cold water at every fixture is softened. The technician sets the unit near a drain and an electrical outlet, usually in a garage or utility room, and connects the brine tank, drain line and bypass valve. The size depends on your household and on hardness: SLCDPU lists 8.0 to 12.4 grains per gallon at its three surface water plants, and a [water test](/water-quality-testing/) shows your own number.
 
 ## Portable Unit Installation
 
@@ -44,7 +44,7 @@ Installation follows four steps. First, a technician tests your water and confir
 
 Installed cost depends on system size, type and the plumbing in your home. <mark class="data-gap">[NEEDS DATA: installed price range for Salt Lake City, from the tenant or a sourced Utah report.]</mark> Larger households and harder water need more grain capacity, and extra pipework adds to the price. Your free estimate is itemized, so you see the equipment, the labor and any extras before you approve the work. For a guide to what moves the price, see [Water Softener Systems in Salt Lake City, UT](/water-softener-systems/).
 
-> **Not a good fit if...** your water is soft already. Water under 60 mg/L needs no softener, and SLCDPU's lowest listed reading is 121 mg/L, so most Salt Lake City homes are above that line.
+> **Not a good fit if...** your water is soft already. Water under 60 mg/L needs no softener, and SLCDPU's lowest listed reading is 136 mg/L, so most Salt Lake City homes are above that line.
 
 
 ## What decides which option fits a Salt Lake City home?

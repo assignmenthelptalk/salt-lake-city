@@ -7,12 +7,12 @@ slug: "/service-areas/"
 pageType: "geo-hub"
 parentSlug: "/"
 crumb: "Water Softener Service Areas Near Salt Lake City, UT"
-openingHtml: "Water softener service areas near Salt Lake City, UT follow the water, because hardness depends on which utility and which blend of sources serves your street. SLCDPU's 2025 report says its service area includes Salt Lake City and portions of Millcreek, Holladay, Cottonwood Heights and other communities. <a href=\"/\">Salt Lake City Crest Water Softener</a> installs, repairs and replaces softeners in the Salt Lake Valley. Request a free estimate and confirm your address."
+openingHtml: "Water softener service areas near Salt Lake City, UT follow the water, because hardness depends on which utility and which blend of sources serves your street. SLCDPU's 2026 report says its service area includes Salt Lake City and portions of Millcreek, Holladay, Cottonwood Heights and other communities. <a href=\"/\">Salt Lake City Crest Water Softener</a> installs, repairs and replaces softeners in the Salt Lake Valley. Request a free estimate and confirm your address."
 formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-service-areas-salt-lake-city-ut.webp","alt":"Water softener service areas Salt Lake City UT map of the valley","exists":false}]
-faq: [{"q":"Does water hardness differ between Salt Lake City and nearby cities?","a":"It can. Hardness depends on the utility and its source blend, and SLCDPU lists 121 to 487 mg/L across its own sources. A test at your tap gives the real figure."},{"q":"How do I find out who provides my water?","a":"Your water bill names the provider. Salt Lake City, parts of Millcreek, Holladay and Cottonwood Heights receive SLCDPU water, and other cities use their own utilities."},{"q":"Do you serve my neighborhood?","a":"Call or use the form with your address. Salt Lake City Crest Water Softener UT provides water softener installation, replacement, repair and water testing for homes and businesses across Salt Lake City and Salt Lake County."}]
+faq: [{"q":"Does water hardness differ between Salt Lake City and nearby cities?","a":"It can. Hardness depends on the utility and its source blend, and SLCDPU lists 136 to 571 mg/L across its own sources. A test at your tap gives the real figure."},{"q":"How do I find out who provides my water?","a":"Your water bill names the provider. Salt Lake City, parts of Millcreek, Holladay and Cottonwood Heights receive SLCDPU water, and other cities use their own utilities."},{"q":"Do you serve my neighborhood?","a":"Call or use the form with your address. Salt Lake City Crest Water Softener UT provides water softener installation, replacement, repair and water testing for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 3
 ---
 
@@ -22,7 +22,7 @@ Salt Lake City is the core service area, with nearby communities served by the s
 
 ### Salt Lake City
 
-Salt Lake City homes receive SLCDPU water, which lists total hardness from 121 mg/L at the Big Cottonwood plant to 198 mg/L at the City Creek plant, and up to 487 mg/L from its wells. A free test shows the reading at your tap.
+Salt Lake City homes receive SLCDPU water, which lists total hardness from 136 mg/L at the Big Cottonwood plant to 212 mg/L at the City Creek plant, and up to 571 mg/L from its wells. A free test shows the reading at your tap.
 
 ### Millcreek, Holladay and Cottonwood Heights
 
@@ -30,7 +30,7 @@ SLCDPU's report says its service area includes portions of Millcreek, Holladay a
 
 ### Other Communities in the Valley
 
-SLCDPU also receives treated water from the Jordan Valley Water Conservancy District (189.4 mg/L total hardness) and the Metropolitan Water District of Salt Lake and Sandy, which supply other cities. <mark class="data-gap">[NEEDS DATA: city-by-city provider and hardness for West Valley City, West Jordan, Sandy, Murray, Draper, South Jordan and Taylorsville before any page is published for them.]</mark>
+SLCDPU also receives treated water from the Jordan Valley Water Conservancy District (184.1 mg/L total hardness) and the Metropolitan Water District of Salt Lake and Sandy, which supply other cities. <mark class="data-gap">[NEEDS DATA: city-by-city provider and hardness for West Valley City, West Jordan, Sandy, Murray, Draper, South Jordan and Taylorsville before any page is published for them.]</mark>
 
 
 ## Is your address inside the service area?
@@ -46,7 +46,7 @@ Call or send the form with your address, and we confirm coverage and your water 
 <details class="faq-item">
 <summary>Does water hardness differ between Salt Lake City and nearby cities?</summary>
 
-It can. Hardness depends on the utility and its source blend, and SLCDPU lists 121 to 487 mg/L across its own sources. A test at your tap gives the real figure.
+It can. Hardness depends on the utility and its source blend, and SLCDPU lists 136 to 571 mg/L across its own sources. A test at your tap gives the real figure.
 
 </details>
 
