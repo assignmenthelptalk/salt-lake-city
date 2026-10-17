@@ -1,5 +1,39 @@
 {
-  "hardness": null,
-  "issues": [],
-  "neighbourhoods": []
+  "hardness": {
+    "value": "8.0 to 12.4",
+    "unit": "GPG",
+    "label": "Hard to Very Hard",
+    "short": "8.0 to 12.4 GPG (2026 report)",
+    "intro": "SLCDPU's 2026 water quality report lists 8.0 to 12.4 GPG at its three surface water plants, and more at some wells. Click a community to see what that means for your home.",
+    "reportNote": "SLCDPU's 2026 report lists total hardness of 136 mg/L (8.0 GPG) at Big Cottonwood, 175 mg/L (10.2 GPG) at Parleys and 212 mg/L (12.4 GPG) at City Creek, with wells at 154 to 571 mg/L. It gives no single city-wide average, so your street's reading depends on the source blend that reaches it. The USGS rates 121 to 180 mg/L as hard and over 180 mg/L as very hard.",
+    "footnote": "Hardness is SLCDPU's 2026 plant-by-plant range, not a city-wide average. Your street can read higher or lower; a free water test shows your tap. Millcreek, Holladay and Cottonwood Heights are served by SLCDPU only in part, so check your water bill for the provider."
+  },
+  "issues": [
+    "White scale on faucets and showerheads",
+    "Spotting and film on glassware and dishes",
+    "Scale buildup in water heaters and appliances",
+    "Soap scum, dry skin and stiff laundry"
+  ],
+  "neighbourhoods": [
+    {
+      "name": "Salt Lake City",
+      "lat": 40.7596198,
+      "lng": -111.886797
+    },
+    {
+      "name": "Millcreek",
+      "lat": 40.6992918,
+      "lng": -111.855583
+    },
+    {
+      "name": "Holladay",
+      "lat": 40.6710765,
+      "lng": -111.8250278
+    },
+    {
+      "name": "Cottonwood Heights",
+      "lat": 40.613474,
+      "lng": -111.8256464
+    }
+  ]
 }
