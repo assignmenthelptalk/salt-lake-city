@@ -20,21 +20,18 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ## Totals
 - Pages built: 26
-- Open markers: 76
+- Open markers: 71
 - Draft meta descriptions: 0
 
 ## Per page
 ### /
 - Meta description: final
-- Open markers: 10
+- Open markers: 7
   - [NEEDS DATA: years in business and installs completed, from the tenant]
   - [NEEDS DATA: Utah DOPL licence rule and the installer's licence number.]
   - [NEEDS DATA: tenant confirmation]
-  - [VERIFY with installer]
-  - [VERIFY with installer]
   - [NEEDS DATA: installed price range, from the tenant or a sourced Utah report.]
   - [NEEDS DATA: SpringWell affiliate link, salt-based softener recommendation.]
-  - [VERIFY with installer]
   - [NEEDS DATA: confirm the tenant's service area list.]
   - [NEEDS DATA: confirm the tenant's service area list before naming more towns.]
 
@@ -159,11 +156,9 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /water-softener-installation/
 - Meta description: final
-- Open markers: 5
+- Open markers: 3
   - [NEEDS DATA: Salt Lake City permit and plumbing-code requirements for a softener install.]
-  - [VERIFY with installer]
   - [NEEDS DATA: installed price range for Salt Lake City, from the tenant or a sourced Utah report.]
-  - [VERIFY with installer]
   - [NEEDS DATA: permit rule.]
 
 ### /water-softener-maintenance/

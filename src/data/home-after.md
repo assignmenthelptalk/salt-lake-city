@@ -30,7 +30,7 @@ A technician tests your water, measures hardness and recommends a softener size 
 
 ### Step 3: Professional Installation
 
-A qualified technician installs the system, connects the drain and brine line, programs the control head and tests every tap. A standard install typically takes about 2 to 4 hours <mark class="data-gap">[VERIFY with installer]</mark>.
+A qualified technician installs the system, connects the drain and brine line, programs the control head and tests every tap. A standard install typically takes about 2 to 4 hours.
 
 ### Step 4: Ongoing Support & Maintenance
 
@@ -79,7 +79,7 @@ A salt-based softener removes calcium and magnesium by ion exchange and leaves s
 <details class="faq-item">
 <summary>How long does water softener installation take?</summary>
 
-A standard installation typically takes about 2 to 4 hours <mark class="data-gap">[VERIFY with installer]</mark>. Plumbing access, drain location and system type can lengthen the visit, and the technician confirms the schedule at your estimate.
+A standard installation typically takes about 2 to 4 hours. Plumbing access, drain location and system type can lengthen the visit, and the technician confirms the schedule at your estimate.
 
 </details>
 

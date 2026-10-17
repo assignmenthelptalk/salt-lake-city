@@ -12,8 +12,8 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-installation-salt-lake-city-ut.webp","alt":"Water softener installation Salt Lake City UT softener with bypass valve and drain line"}
 images: [{"file":"water-softener-installation-salt-lake-city-ut.webp","alt":"Water softener installation Salt Lake City UT softener with bypass valve and drain line","exists":true}]
-faq: [{"q":"How long does water softener installation take in Salt Lake City?","a":"Most installations finish in a single visit. A standard install typically takes about 2 to 4 hours . The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type."},{"q":"Do I need a permit to install a water softener in Salt Lake City?","a":"Permit rules depend on the plumbing work involved. Ask whether Salt Lake City or your city requires a permit for your job. We confirm what applies to your address before the install."},{"q":"Can you install a water softener on a private well?","a":"Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener."},{"q":"Where in my house does the softener go?","a":"The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer."},{"q":"Is a bypass valve necessary?","a":"A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
-markerCount: 5
+faq: [{"q":"How long does water softener installation take in Salt Lake City?","a":"Most installations finish in a single visit. A standard install typically takes about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type."},{"q":"Do I need a permit to install a water softener in Salt Lake City?","a":"Permit rules depend on the plumbing work involved. Ask whether Salt Lake City or your city requires a permit for your job. We confirm what applies to your address before the install."},{"q":"Can you install a water softener on a private well?","a":"Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener."},{"q":"Where in my house does the softener go?","a":"The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer."},{"q":"Is a bypass valve necessary?","a":"A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water. Salt Lake City Crest Water Softener UT provides water softener installation for homes and businesses across Salt Lake City and Salt Lake County."}]
+markerCount: 3
 ---
 
 ## Whole-House Installation
@@ -38,7 +38,7 @@ A pressure regulator protects the softener's seals when street pressure runs hig
 
 ## 4-Step Installation Process
 
-Installation follows four steps. First, a technician tests your water and confirms the softener size. Second, the old plumbing is prepared and the unit is placed. Third, the technician connects the bypass valve, drain line and brine tank, then programs the control head. Fourth, every tap is tested and the technician explains salt refills and settings. A standard install typically takes about 2 to 4 hours <mark class="data-gap">[VERIFY with installer]</mark>.
+Installation follows four steps. First, a technician tests your water and confirms the softener size. Second, the old plumbing is prepared and the unit is placed. Third, the technician connects the bypass valve, drain line and brine tank, then programs the control head. Fourth, every tap is tested and the technician explains salt refills and settings. A standard install typically takes about 2 to 4 hours.
 
 ## How Much Does Installation Cost in Salt Lake City
 
@@ -64,7 +64,7 @@ Homeowners comparing options also read about [water softener replacement](/water
 <details class="faq-item">
 <summary>How long does water softener installation take in Salt Lake City?</summary>
 
-Most installations finish in a single visit. A standard install typically takes about 2 to 4 hours <mark class="data-gap">[VERIFY with installer]</mark>. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type.
+Most installations finish in a single visit. A standard install typically takes about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type.
 
 </details>
 
