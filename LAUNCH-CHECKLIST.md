@@ -10,7 +10,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Licence number and class for whoever installs (check what UT requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real Salt Lake City job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
-- [ ] Homepage neighbourhood map: 4 pins. Confirm each pin's coordinates and the hardness report text
+- [ ] Homepage neighbourhood map: 11 pins. Confirm each pin's coordinates and the hardness report text
 - [ ] Service-areas map: none (add map-points.json to the strategy folder). Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: 0 link(s) are shown as plain text until the target page exists (none). Write the page, re-run the import and the link comes back

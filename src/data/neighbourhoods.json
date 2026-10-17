@@ -6,7 +6,7 @@
     "short": "8.0 to 12.4 GPG (2026 report)",
     "intro": "SLCDPU's 2026 water quality report lists 8.0 to 12.4 GPG at its three surface water plants, and more at some wells. Click a community to see what that means for your home.",
     "reportNote": "SLCDPU's 2026 report lists total hardness of 136 mg/L (8.0 GPG) at Big Cottonwood, 175 mg/L (10.2 GPG) at Parleys and 212 mg/L (12.4 GPG) at City Creek, with wells at 154 to 571 mg/L. It gives no single city-wide average, so your street's reading depends on the source blend that reaches it. The USGS rates 121 to 180 mg/L as hard and over 180 mg/L as very hard.",
-    "footnote": "Hardness is SLCDPU's 2026 plant-by-plant range, not a city-wide average. Your street can read higher or lower; a free water test shows your tap. Millcreek, Holladay and Cottonwood Heights are served by SLCDPU only in part, so check your water bill for the provider."
+    "footnote": "Hardness is SLCDPU's 2026 plant-by-plant range, not a city-wide average. Your street can read higher or lower; a free water test shows your tap. Millcreek, Holladay and Cottonwood Heights are served by SLCDPU only in part, so check your water bill for the provider. Hardness for West Valley City, West Jordan, Sandy, Murray, Draper, South Jordan and Taylorsville is an unverified estimate that varies by provider and zone. [VERIFY: confirm with each city's water report before launch]"
   },
   "issues": [
     "White scale on faucets and showerheads",
@@ -34,6 +34,90 @@
       "name": "Cottonwood Heights",
       "lat": 40.613474,
       "lng": -111.8256464
+    },
+    {
+      "name": "West Valley City",
+      "lat": 40.6967891,
+      "lng": -111.9866954,
+      "issues": [
+        "Estimated hardness about 8.6 GPG (roughly 8 to 9 GPG, Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "West Jordan",
+      "lat": 40.6061337,
+      "lng": -111.9395211,
+      "issues": [
+        "Estimated hardness about 8.7 GPG (roughly 8 to 9 GPG, Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "Sandy",
+      "lat": 40.5710454,
+      "lng": -111.8953815,
+      "issues": [
+        "Estimated hardness about 9.2 GPG (roughly 9 to 10 GPG, Hard), with seasonal well blending that can reach 18 GPG [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "Murray",
+      "lat": 40.6667841,
+      "lng": -111.888417,
+      "issues": [
+        "Estimated hardness about 11.4 GPG (range 4.7 to 27.1 GPG, Very Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "Draper",
+      "lat": 40.5247777,
+      "lng": -111.8627989,
+      "issues": [
+        "Estimated hardness about 15 GPG (roughly 10 to 20+ GPG by zone, Very Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "South Jordan",
+      "lat": 40.5584882,
+      "lng": -111.9367107,
+      "issues": [
+        "Estimated hardness about 8.6 GPG (roughly 8 to 9 GPG, Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
+    },
+    {
+      "name": "Taylorsville",
+      "lat": 40.6676347,
+      "lng": -111.9388027,
+      "issues": [
+        "Estimated hardness about 13.8 GPG (roughly 12 to 15 GPG, Very Hard) [VERIFY: unconfirmed estimate, check the provider's current water quality report]",
+        "White scale on faucets and showerheads",
+        "Spotting and film on glassware and dishes",
+        "Scale buildup in water heaters and appliances",
+        "Soap scum, dry skin and stiff laundry"
+      ]
     }
   ]
 }
