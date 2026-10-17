@@ -11,7 +11,7 @@ openingHtml: "Water treatment services in Salt Lake City, UT begin with a water 
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-salt-lake-city-ut.webp","alt":"Water treatment Salt Lake City UT filtration and testing equipment"}
-images: [{"file":"water-treatment-salt-lake-city-ut.webp","alt":"Water treatment Salt Lake City UT filtration and testing equipment","exists":true},{"file":"card-why-test-before-you-treat-salt-lake-city-ut.webp","alt":"Why Test Before You Treat? Salt Lake City UT","exists":false},{"file":"card-water-quality-testing-salt-lake-city-ut.webp","alt":"Water Quality Testing Salt Lake City UT","exists":true},{"file":"card-water-filtration-system-installation-salt-lake-city-ut.webp","alt":"Water Filtration System Installation Salt Lake City UT","exists":false},{"file":"card-well-water-softener-and-treatment-salt-lake-city-ut.webp","alt":"Well Water Softener and Treatment Salt Lake City UT","exists":false},{"file":"card-water-contaminant-removal-salt-lake-city-ut.webp","alt":"Water Contaminant Removal Salt Lake City UT","exists":false},{"file":"card-reverse-osmosis-system-installation-salt-lake-city-ut.webp","alt":"Reverse Osmosis System Installation Salt Lake City UT","exists":false},{"file":"card-uv-water-purification-system-installation-salt-lake-city-ut.webp","alt":"UV Water Purification System Installation Salt Lake City UT","exists":false},{"file":"card-drinking-water-system-installation-salt-lake-city-ut.webp","alt":"Drinking Water System Installation Salt Lake City UT","exists":false}]
+images: [{"file":"water-treatment-salt-lake-city-ut.webp","alt":"Water treatment Salt Lake City UT filtration and testing equipment","exists":true},{"file":"card-why-test-before-you-treat-salt-lake-city-ut.webp","alt":"Why Test Before You Treat? Salt Lake City UT","exists":true},{"file":"card-water-quality-testing-salt-lake-city-ut.webp","alt":"Water Quality Testing Salt Lake City UT","exists":true},{"file":"card-water-filtration-system-installation-salt-lake-city-ut.webp","alt":"Water Filtration System Installation Salt Lake City UT","exists":true},{"file":"card-well-water-softener-and-treatment-salt-lake-city-ut.webp","alt":"Well Water Softener and Treatment Salt Lake City UT","exists":true},{"file":"card-water-contaminant-removal-salt-lake-city-ut.webp","alt":"Water Contaminant Removal Salt Lake City UT","exists":true},{"file":"card-reverse-osmosis-system-installation-salt-lake-city-ut.webp","alt":"Reverse Osmosis System Installation Salt Lake City UT","exists":true},{"file":"card-uv-water-purification-system-installation-salt-lake-city-ut.webp","alt":"UV Water Purification System Installation Salt Lake City UT","exists":true},{"file":"card-drinking-water-system-installation-salt-lake-city-ut.webp","alt":"Drinking Water System Installation Salt Lake City UT","exists":true}]
 faq: [{"q":"Do I need a water test before installing a softener?","a":"Yes. A test gives your hardness in grains per gallon and flags iron or sulfur, so the technician sizes the softener correctly and adds filters where needed."},{"q":"Does a water softener make water safe to drink?","a":"A softener removes hardness minerals and does not treat bacteria or most contaminants. A filter, reverse osmosis or UV system handles those, based on your test."},{"q":"Is Salt Lake City tap water safe to drink?","a":"SLCDPU publishes its results in an annual Water Quality Report. The 2026 report states the water meets or exceeds federal and state standards and that no drinking water violations were issued to SLCDPU in 2025. A home test shows what reaches your tap after your own plumbing."},{"q":"What is the difference between filtration and softening?","a":"A filter removes particles and chemicals. A softener removes calcium and magnesium. Many homes need both. Salt Lake City Crest Water Softener UT provides water treatment services for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Why Test Before You Treat? Salt Lake City UT](/placeholders/card.svg)
+
+![Why Test Before You Treat? Salt Lake City UT](../../assets/images/card-why-test-before-you-treat-salt-lake-city-ut.webp)
+
+
 
 ### Why Test Before You Treat?
 
@@ -50,7 +53,10 @@ A free water test reads hardness, and a fuller test adds total dissolved solids,
 <div class="svc-card">
 
 
-![Water Filtration System Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Water Filtration System Installation Salt Lake City UT](../../assets/images/card-water-filtration-system-installation-salt-lake-city-ut.webp)
+
+
 
 ### Water Filtration System Installation
 
@@ -61,7 +67,10 @@ A whole-house or point-of-use filter removes sediment, chlorine taste and odor. 
 <div class="svc-card">
 
 
-![Well Water Softener and Treatment Salt Lake City UT](/placeholders/card.svg)
+
+![Well Water Softener and Treatment Salt Lake City UT](../../assets/images/card-well-water-softener-and-treatment-salt-lake-city-ut.webp)
+
+
 
 ### Well Water Softener and Treatment
 
@@ -72,7 +81,10 @@ Private wells need a test for iron, sulfur and bacteria before a softener goes i
 <div class="svc-card">
 
 
-![Water Contaminant Removal Salt Lake City UT](/placeholders/card.svg)
+
+![Water Contaminant Removal Salt Lake City UT](../../assets/images/card-water-contaminant-removal-salt-lake-city-ut.webp)
+
+
 
 ### Water Contaminant Removal
 
@@ -83,7 +95,10 @@ Targeted filters reduce specific contaminants such as lead, chloramine, fluoride
 <div class="svc-card">
 
 
-![Reverse Osmosis System Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Reverse Osmosis System Installation Salt Lake City UT](../../assets/images/card-reverse-osmosis-system-installation-salt-lake-city-ut.webp)
+
+
 
 ### Reverse Osmosis System Installation
 
@@ -94,7 +109,10 @@ A reverse osmosis system filters drinking and cooking water through a fine membr
 <div class="svc-card">
 
 
-![UV Water Purification System Installation Salt Lake City UT](/placeholders/card.svg)
+
+![UV Water Purification System Installation Salt Lake City UT](../../assets/images/card-uv-water-purification-system-installation-salt-lake-city-ut.webp)
+
+
 
 ### UV Water Purification System Installation
 
@@ -105,7 +123,10 @@ A UV unit disinfects water with ultraviolet light, which suits private wells and
 <div class="svc-card">
 
 
-![Drinking Water System Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Drinking Water System Installation Salt Lake City UT](../../assets/images/card-drinking-water-system-installation-salt-lake-city-ut.webp)
+
+
 
 ### Drinking Water System Installation
 
