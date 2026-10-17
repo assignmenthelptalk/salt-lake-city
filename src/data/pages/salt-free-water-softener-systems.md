@@ -11,7 +11,7 @@ openingHtml: "A salt-free water softener system in Salt Lake City, UT conditions
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-free-water-softener-salt-lake-city-ut.webp","alt":"Salt-free water softener system Salt Lake City UT installed on a main line"}
-images: [{"file":"salt-free-water-softener-salt-lake-city-ut.webp","alt":"Salt-free water softener system Salt Lake City UT installed on a main line","exists":true},{"file":"card-template-assisted-crystallization-tac-systems-salt-lake-city-ut.webp","alt":"Template Assisted Crystallization (TAC) Systems Salt Lake City UT","exists":true},{"file":"card-electronic-descaler-installation-salt-lake-city-ut.webp","alt":"Electronic Descaler Installation Salt Lake City UT","exists":false},{"file":"card-magnetic-water-conditioner-installation-salt-lake-city-ut.webp","alt":"Magnetic Water Conditioner Installation Salt Lake City UT","exists":true}]
+images: [{"file":"salt-free-water-softener-salt-lake-city-ut.webp","alt":"Salt-free water softener system Salt Lake City UT installed on a main line","exists":true},{"file":"card-template-assisted-crystallization-tac-systems-salt-lake-city-ut.webp","alt":"Template Assisted Crystallization (TAC) Systems Salt Lake City UT","exists":true},{"file":"card-electronic-descaler-installation-salt-lake-city-ut.webp","alt":"Electronic Descaler Installation Salt Lake City UT","exists":true},{"file":"card-magnetic-water-conditioner-installation-salt-lake-city-ut.webp","alt":"Magnetic Water Conditioner Installation Salt Lake City UT","exists":true}]
 faq: [{"q":"Does a salt-free water softener actually soften water?","a":"No. It conditions water so scale does not stick, and it leaves hardness minerals in place. A salt-based softener removes the minerals."},{"q":"How long does a TAC media cartridge last?","a":"Replacement timing depends on water use and system size. Media is typically rated for about 5 to 8 years . The technician sets the schedule at installation."},{"q":"Is a salt-free system better for the environment?","a":"It uses no salt and sends no brine to the drain. Salt-based systems discharge brine during regeneration, which some communities limit."},{"q":"Can I install a salt-free system myself?","a":"Many units install on the main line with basic plumbing skills, but a correct size and pressure check matter. The technician installs and tests the unit for you."},{"q":"What does a salt-free system cost in Salt Lake City?","a":"The estimate is free and itemized. Salt Lake City Crest Water Softener UT provides salt-free water softener systems for homes and businesses across Salt Lake City and Salt Lake County."}]
 markerCount: 5
 ---
@@ -45,7 +45,10 @@ A template assisted crystallization (TAC) system passes water over specially mad
 <div class="svc-card">
 
 
-![Electronic Descaler Installation Salt Lake City UT](/placeholders/card.svg)
+
+![Electronic Descaler Installation Salt Lake City UT](../../assets/images/card-electronic-descaler-installation-salt-lake-city-ut.webp)
+
+
 
 ### Electronic Descaler Installation
 

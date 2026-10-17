@@ -14,7 +14,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Service-areas map: none (add map-points.json to the strategy folder). Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: 0 link(s) are shown as plain text until the target page exists (none). Write the page, re-run the import and the link comes back
-- [ ] Build the images still missing (code-made diagrams, listed here): card-why-is-salt-lake-city-water-hard-salt-lake-city-ut.webp, card-electronic-descaler-installation-salt-lake-city-ut.webp, water-softener-service-areas-salt-lake-city-ut.webp, card-salt-free-water-conditioners-salt-lake-city-ut.webp, card-potassium-chloride-water-softener-systems-salt-lake-city-ut.webp, card-under-sink-water-filter-salt-lake-city-ut.webp
+- [ ] Build the images still missing (code-made diagrams, listed here): none
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Write or decide the remaining location pages (see the strategy folder's reports/)
 
